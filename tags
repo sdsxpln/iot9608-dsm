@@ -1,0 +1,1939 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+$	11	/^/;"	v	language:C
+$	tags	/^$	11	\/^\/;"	v	language:C$/;"	v	language:C
+$$w	10	/^/;"	v	language:C
+$i$	11	/^/;"	v	language:C
+A	10	/^,/;"	v	language:C
+A	11	/^/;"	v	language:C
+A	tags	/^A	11	\/^\/;"	v	language:C$/;"	v	language:C
+A_A_yada	yadaoperator.h~	11;"	d	language:C	file:
+A_B_yada	yadaoperator.h~	12;"	d	language:C	file:
+A_C_yada	yadaoperator.h~	13;"	d	language:C	file:
+Act_powerA	fileoperator.h	28;"	d	language:C
+Act_powerA	fileoperator.h~	26;"	d	language:C	file:
+Act_powerA_taigu	taiguoperator.h	36;"	d	language:C
+Act_powerA_taigu	taiguoperator.h~	35;"	d	language:C	file:
+Act_powerA_yada	yadaoperator.h	14;"	d	language:C
+Act_powerA_yada	yadaoperator.h~	14;"	d	language:C	file:
+Act_powerB	fileoperator.h	29;"	d	language:C
+Act_powerB	fileoperator.h~	27;"	d	language:C	file:
+Act_powerB_taigu	taiguoperator.h	37;"	d	language:C
+Act_powerB_taigu	taiguoperator.h~	36;"	d	language:C	file:
+Act_powerB_yada	yadaoperator.h	15;"	d	language:C
+Act_powerB_yada	yadaoperator.h~	15;"	d	language:C	file:
+Act_powerC	fileoperator.h	30;"	d	language:C
+Act_powerC	fileoperator.h~	28;"	d	language:C	file:
+Act_powerC_taigu	taiguoperator.h	38;"	d	language:C
+Act_powerC_taigu	taiguoperator.h~	37;"	d	language:C	file:
+Act_powerC_yada	yadaoperator.h	16;"	d	language:C
+Act_powerC_yada	yadaoperator.h~	16;"	d	language:C	file:
+Act_powerT	fileoperator.h	31;"	d	language:C
+Act_powerT	fileoperator.h~	29;"	d	language:C	file:
+Act_powerT_taigu	taiguoperator.h	39;"	d	language:C
+Act_powerT_taigu	taiguoperator.h~	38;"	d	language:C	file:
+Act_powerT_yada	yadaoperator.h	17;"	d	language:C
+Act_powerT_yada	yadaoperator.h~	17;"	d	language:C	file:
+App_powerA	fileoperator.h	36;"	d	language:C
+App_powerA	fileoperator.h~	34;"	d	language:C	file:
+App_powerA_yada	yadaoperator.h	22;"	d	language:C
+App_powerA_yada	yadaoperator.h~	22;"	d	language:C	file:
+App_powerB	fileoperator.h	37;"	d	language:C
+App_powerB	fileoperator.h~	35;"	d	language:C	file:
+App_powerB_yada	yadaoperator.h	23;"	d	language:C
+App_powerB_yada	yadaoperator.h~	23;"	d	language:C	file:
+App_powerC	fileoperator.h	38;"	d	language:C
+App_powerC	fileoperator.h~	36;"	d	language:C	file:
+App_powerC_yada	yadaoperator.h	24;"	d	language:C
+App_powerC_yada	yadaoperator.h~	24;"	d	language:C	file:
+App_powerT	fileoperator.h	39;"	d	language:C
+App_powerT	fileoperator.h~	37;"	d	language:C	file:
+App_powerT_yada	yadaoperator.h	25;"	d	language:C
+App_powerT_yada	yadaoperator.h~	25;"	d	language:C	file:
+BYTESFACTORY_H	bytesfactory.h	2;"	d	language:C
+BYTESFACTORY_H	bytesfactory.h~	2;"	d	language:C	file:
+CHANEL_H	chanel.h	2;"	d	language:C
+CHANEL_H	chanel.h~	2;"	d	language:C	file:
+C_A	fileoperator.h	25;"	d	language:C
+C_A	fileoperator.h~	23;"	d	language:C	file:
+C_A_taigu	taiguoperator.h	16;"	d	language:C
+C_A_taigu	taiguoperator.h~	16;"	d	language:C	file:
+C_A_yada	yadaoperator.h	11;"	d	language:C
+C_B	fileoperator.h	26;"	d	language:C
+C_B	fileoperator.h~	24;"	d	language:C	file:
+C_B_taigu	taiguoperator.h	17;"	d	language:C
+C_B_taigu	taiguoperator.h~	17;"	d	language:C	file:
+C_B_yada	yadaoperator.h	12;"	d	language:C
+C_C	fileoperator.h	27;"	d	language:C
+C_C	fileoperator.h~	25;"	d	language:C	file:
+C_C_taigu	taiguoperator.h	18;"	d	language:C
+C_C_taigu	taiguoperator.h~	18;"	d	language:C	file:
+C_C_yada	yadaoperator.h	13;"	d	language:C
+C_fundA	fileoperator.h	48;"	d	language:C
+C_fundA	fileoperator.h~	46;"	d	language:C	file:
+C_fundB	fileoperator.h	49;"	d	language:C
+C_fundB	fileoperator.h~	47;"	d	language:C	file:
+C_fundC	fileoperator.h	50;"	d	language:C
+C_fundC	fileoperator.h~	48;"	d	language:C	file:
+C_harA10	fileoperator.h	206;"	d	language:C
+C_harA10	fileoperator.h~	204;"	d	language:C	file:
+C_harA10_taigu	taiguoperator.h	155;"	d	language:C
+C_harA10_taigu	taiguoperator.h~	154;"	d	language:C	file:
+C_harA10_yada	yadaoperator.h	103;"	d	language:C
+C_harA10_yada	yadaoperator.h~	103;"	d	language:C	file:
+C_harA11	fileoperator.h	207;"	d	language:C
+C_harA11	fileoperator.h~	205;"	d	language:C	file:
+C_harA11_taigu	taiguoperator.h	156;"	d	language:C
+C_harA11_taigu	taiguoperator.h~	155;"	d	language:C	file:
+C_harA11_yada	yadaoperator.h	104;"	d	language:C
+C_harA11_yada	yadaoperator.h~	104;"	d	language:C	file:
+C_harA12	fileoperator.h	208;"	d	language:C
+C_harA12	fileoperator.h~	206;"	d	language:C	file:
+C_harA12_taigu	taiguoperator.h	157;"	d	language:C
+C_harA12_taigu	taiguoperator.h~	156;"	d	language:C	file:
+C_harA12_yada	yadaoperator.h	105;"	d	language:C
+C_harA12_yada	yadaoperator.h~	105;"	d	language:C	file:
+C_harA13	fileoperator.h	209;"	d	language:C
+C_harA13	fileoperator.h~	207;"	d	language:C	file:
+C_harA13_taigu	taiguoperator.h	158;"	d	language:C
+C_harA13_taigu	taiguoperator.h~	157;"	d	language:C	file:
+C_harA13_yada	yadaoperator.h	106;"	d	language:C
+C_harA13_yada	yadaoperator.h~	106;"	d	language:C	file:
+C_harA14	fileoperator.h	210;"	d	language:C
+C_harA14	fileoperator.h~	208;"	d	language:C	file:
+C_harA14_taigu	taiguoperator.h	159;"	d	language:C
+C_harA14_taigu	taiguoperator.h~	158;"	d	language:C	file:
+C_harA14_yada	yadaoperator.h	107;"	d	language:C
+C_harA14_yada	yadaoperator.h~	107;"	d	language:C	file:
+C_harA15	fileoperator.h	211;"	d	language:C
+C_harA15	fileoperator.h~	209;"	d	language:C	file:
+C_harA15_taigu	taiguoperator.h	160;"	d	language:C
+C_harA15_taigu	taiguoperator.h~	159;"	d	language:C	file:
+C_harA15_yada	yadaoperator.h	108;"	d	language:C
+C_harA15_yada	yadaoperator.h~	108;"	d	language:C	file:
+C_harA16	fileoperator.h	212;"	d	language:C
+C_harA16	fileoperator.h~	210;"	d	language:C	file:
+C_harA16_taigu	taiguoperator.h	161;"	d	language:C
+C_harA16_taigu	taiguoperator.h~	160;"	d	language:C	file:
+C_harA16_yada	yadaoperator.h	109;"	d	language:C
+C_harA16_yada	yadaoperator.h~	109;"	d	language:C	file:
+C_harA17	fileoperator.h	213;"	d	language:C
+C_harA17	fileoperator.h~	211;"	d	language:C	file:
+C_harA17_taigu	taiguoperator.h	162;"	d	language:C
+C_harA17_taigu	taiguoperator.h~	161;"	d	language:C	file:
+C_harA17_yada	yadaoperator.h	110;"	d	language:C
+C_harA17_yada	yadaoperator.h~	110;"	d	language:C	file:
+C_harA18	fileoperator.h	214;"	d	language:C
+C_harA18	fileoperator.h~	212;"	d	language:C	file:
+C_harA18_taigu	taiguoperator.h	163;"	d	language:C
+C_harA18_taigu	taiguoperator.h~	162;"	d	language:C	file:
+C_harA18_yada	yadaoperator.h	111;"	d	language:C
+C_harA18_yada	yadaoperator.h~	111;"	d	language:C	file:
+C_harA19	fileoperator.h	215;"	d	language:C
+C_harA19	fileoperator.h~	213;"	d	language:C	file:
+C_harA19_taigu	taiguoperator.h	164;"	d	language:C
+C_harA19_taigu	taiguoperator.h~	163;"	d	language:C	file:
+C_harA19_yada	yadaoperator.h	112;"	d	language:C
+C_harA19_yada	yadaoperator.h~	112;"	d	language:C	file:
+C_harA2	fileoperator.h	198;"	d	language:C
+C_harA2	fileoperator.h~	196;"	d	language:C	file:
+C_harA20	fileoperator.h	216;"	d	language:C
+C_harA20	fileoperator.h~	214;"	d	language:C	file:
+C_harA20_taigu	taiguoperator.h	165;"	d	language:C
+C_harA20_taigu	taiguoperator.h~	164;"	d	language:C	file:
+C_harA20_yada	yadaoperator.h	113;"	d	language:C
+C_harA20_yada	yadaoperator.h~	113;"	d	language:C	file:
+C_harA21	fileoperator.h	217;"	d	language:C
+C_harA21	fileoperator.h~	215;"	d	language:C	file:
+C_harA21_taigu	taiguoperator.h	166;"	d	language:C
+C_harA21_taigu	taiguoperator.h~	165;"	d	language:C	file:
+C_harA21_yada	yadaoperator.h	114;"	d	language:C
+C_harA21_yada	yadaoperator.h~	114;"	d	language:C	file:
+C_harA22	fileoperator.h	218;"	d	language:C
+C_harA22	fileoperator.h~	216;"	d	language:C	file:
+C_harA22_taigu	taiguoperator.h	167;"	d	language:C
+C_harA22_taigu	taiguoperator.h~	166;"	d	language:C	file:
+C_harA23	fileoperator.h	219;"	d	language:C
+C_harA23	fileoperator.h~	217;"	d	language:C	file:
+C_harA23_taigu	taiguoperator.h	168;"	d	language:C
+C_harA23_taigu	taiguoperator.h~	167;"	d	language:C	file:
+C_harA24	fileoperator.h	220;"	d	language:C
+C_harA24	fileoperator.h~	218;"	d	language:C	file:
+C_harA24_taigu	taiguoperator.h	169;"	d	language:C
+C_harA24_taigu	taiguoperator.h~	168;"	d	language:C	file:
+C_harA25	fileoperator.h	221;"	d	language:C
+C_harA25	fileoperator.h~	219;"	d	language:C	file:
+C_harA25_taigu	taiguoperator.h	170;"	d	language:C
+C_harA25_taigu	taiguoperator.h~	169;"	d	language:C	file:
+C_harA26	fileoperator.h	222;"	d	language:C
+C_harA26	fileoperator.h~	220;"	d	language:C	file:
+C_harA26_taigu	taiguoperator.h	171;"	d	language:C
+C_harA26_taigu	taiguoperator.h~	170;"	d	language:C	file:
+C_harA27	fileoperator.h	223;"	d	language:C
+C_harA27	fileoperator.h~	221;"	d	language:C	file:
+C_harA27_taigu	taiguoperator.h	172;"	d	language:C
+C_harA27_taigu	taiguoperator.h~	171;"	d	language:C	file:
+C_harA28	fileoperator.h	224;"	d	language:C
+C_harA28	fileoperator.h~	222;"	d	language:C	file:
+C_harA28_taigu	taiguoperator.h	173;"	d	language:C
+C_harA28_taigu	taiguoperator.h~	172;"	d	language:C	file:
+C_harA29	fileoperator.h	225;"	d	language:C
+C_harA29	fileoperator.h~	223;"	d	language:C	file:
+C_harA29_taigu	taiguoperator.h	174;"	d	language:C
+C_harA29_taigu	taiguoperator.h~	173;"	d	language:C	file:
+C_harA2_taigu	taiguoperator.h	147;"	d	language:C
+C_harA2_taigu	taiguoperator.h~	146;"	d	language:C	file:
+C_harA2_yada	yadaoperator.h	95;"	d	language:C
+C_harA2_yada	yadaoperator.h~	95;"	d	language:C	file:
+C_harA3	fileoperator.h	199;"	d	language:C
+C_harA3	fileoperator.h~	197;"	d	language:C	file:
+C_harA30	fileoperator.h	226;"	d	language:C
+C_harA30	fileoperator.h~	224;"	d	language:C	file:
+C_harA30_taigu	taiguoperator.h	175;"	d	language:C
+C_harA30_taigu	taiguoperator.h~	174;"	d	language:C	file:
+C_harA31	fileoperator.h	227;"	d	language:C
+C_harA31	fileoperator.h~	225;"	d	language:C	file:
+C_harA31_taigu	taiguoperator.h	176;"	d	language:C
+C_harA31_taigu	taiguoperator.h~	175;"	d	language:C	file:
+C_harA32	fileoperator.h	228;"	d	language:C
+C_harA32	fileoperator.h~	226;"	d	language:C	file:
+C_harA33	fileoperator.h	229;"	d	language:C
+C_harA33	fileoperator.h~	227;"	d	language:C	file:
+C_harA34	fileoperator.h	230;"	d	language:C
+C_harA34	fileoperator.h~	228;"	d	language:C	file:
+C_harA35	fileoperator.h	231;"	d	language:C
+C_harA35	fileoperator.h~	229;"	d	language:C	file:
+C_harA36	fileoperator.h	232;"	d	language:C
+C_harA36	fileoperator.h~	230;"	d	language:C	file:
+C_harA37	fileoperator.h	233;"	d	language:C
+C_harA37	fileoperator.h~	231;"	d	language:C	file:
+C_harA38	fileoperator.h	234;"	d	language:C
+C_harA38	fileoperator.h~	232;"	d	language:C	file:
+C_harA39	fileoperator.h	235;"	d	language:C
+C_harA39	fileoperator.h~	233;"	d	language:C	file:
+C_harA3_taigu	taiguoperator.h	148;"	d	language:C
+C_harA3_taigu	taiguoperator.h~	147;"	d	language:C	file:
+C_harA3_yada	yadaoperator.h	96;"	d	language:C
+C_harA3_yada	yadaoperator.h~	96;"	d	language:C	file:
+C_harA4	fileoperator.h	200;"	d	language:C
+C_harA4	fileoperator.h~	198;"	d	language:C	file:
+C_harA40	fileoperator.h	236;"	d	language:C
+C_harA40	fileoperator.h~	234;"	d	language:C	file:
+C_harA41	fileoperator.h	237;"	d	language:C
+C_harA41	fileoperator.h~	235;"	d	language:C	file:
+C_harA42	fileoperator.h	238;"	d	language:C
+C_harA42	fileoperator.h~	236;"	d	language:C	file:
+C_harA43	fileoperator.h	239;"	d	language:C
+C_harA43	fileoperator.h~	237;"	d	language:C	file:
+C_harA44	fileoperator.h	240;"	d	language:C
+C_harA44	fileoperator.h~	238;"	d	language:C	file:
+C_harA45	fileoperator.h	241;"	d	language:C
+C_harA45	fileoperator.h~	239;"	d	language:C	file:
+C_harA46	fileoperator.h	242;"	d	language:C
+C_harA46	fileoperator.h~	240;"	d	language:C	file:
+C_harA47	fileoperator.h	243;"	d	language:C
+C_harA47	fileoperator.h~	241;"	d	language:C	file:
+C_harA48	fileoperator.h	244;"	d	language:C
+C_harA48	fileoperator.h~	242;"	d	language:C	file:
+C_harA49	fileoperator.h	245;"	d	language:C
+C_harA49	fileoperator.h~	243;"	d	language:C	file:
+C_harA4_taigu	taiguoperator.h	149;"	d	language:C
+C_harA4_taigu	taiguoperator.h~	148;"	d	language:C	file:
+C_harA4_yada	yadaoperator.h	97;"	d	language:C
+C_harA4_yada	yadaoperator.h~	97;"	d	language:C	file:
+C_harA5	fileoperator.h	201;"	d	language:C
+C_harA5	fileoperator.h~	199;"	d	language:C	file:
+C_harA50	fileoperator.h	246;"	d	language:C
+C_harA50	fileoperator.h~	244;"	d	language:C	file:
+C_harA5_taigu	taiguoperator.h	150;"	d	language:C
+C_harA5_taigu	taiguoperator.h~	149;"	d	language:C	file:
+C_harA5_yada	yadaoperator.h	98;"	d	language:C
+C_harA5_yada	yadaoperator.h~	98;"	d	language:C	file:
+C_harA6	fileoperator.h	202;"	d	language:C
+C_harA6	fileoperator.h~	200;"	d	language:C	file:
+C_harA6_taigu	taiguoperator.h	151;"	d	language:C
+C_harA6_taigu	taiguoperator.h~	150;"	d	language:C	file:
+C_harA6_yada	yadaoperator.h	99;"	d	language:C
+C_harA6_yada	yadaoperator.h~	99;"	d	language:C	file:
+C_harA7	fileoperator.h	203;"	d	language:C
+C_harA7	fileoperator.h~	201;"	d	language:C	file:
+C_harA7_taigu	taiguoperator.h	152;"	d	language:C
+C_harA7_taigu	taiguoperator.h~	151;"	d	language:C	file:
+C_harA7_yada	yadaoperator.h	100;"	d	language:C
+C_harA7_yada	yadaoperator.h~	100;"	d	language:C	file:
+C_harA8	fileoperator.h	204;"	d	language:C
+C_harA8	fileoperator.h~	202;"	d	language:C	file:
+C_harA8_taigu	taiguoperator.h	153;"	d	language:C
+C_harA8_taigu	taiguoperator.h~	152;"	d	language:C	file:
+C_harA8_yada	yadaoperator.h	101;"	d	language:C
+C_harA8_yada	yadaoperator.h~	101;"	d	language:C	file:
+C_harA9	fileoperator.h	205;"	d	language:C
+C_harA9	fileoperator.h~	203;"	d	language:C	file:
+C_harA9_taigu	taiguoperator.h	154;"	d	language:C
+C_harA9_taigu	taiguoperator.h~	153;"	d	language:C	file:
+C_harA9_yada	yadaoperator.h	102;"	d	language:C
+C_harA9_yada	yadaoperator.h~	102;"	d	language:C	file:
+C_harB10	fileoperator.h	255;"	d	language:C
+C_harB10	fileoperator.h~	253;"	d	language:C	file:
+C_harB10_taigu	taiguoperator.h	186;"	d	language:C
+C_harB10_taigu	taiguoperator.h~	185;"	d	language:C	file:
+C_harB10_yada	yadaoperator.h	124;"	d	language:C
+C_harB10_yada	yadaoperator.h~	124;"	d	language:C	file:
+C_harB11	fileoperator.h	256;"	d	language:C
+C_harB11	fileoperator.h~	254;"	d	language:C	file:
+C_harB11_taigu	taiguoperator.h	187;"	d	language:C
+C_harB11_taigu	taiguoperator.h~	186;"	d	language:C	file:
+C_harB11_yada	yadaoperator.h	125;"	d	language:C
+C_harB11_yada	yadaoperator.h~	125;"	d	language:C	file:
+C_harB12	fileoperator.h	257;"	d	language:C
+C_harB12	fileoperator.h~	255;"	d	language:C	file:
+C_harB12_taigu	taiguoperator.h	188;"	d	language:C
+C_harB12_taigu	taiguoperator.h~	187;"	d	language:C	file:
+C_harB12_yada	yadaoperator.h	126;"	d	language:C
+C_harB12_yada	yadaoperator.h~	126;"	d	language:C	file:
+C_harB13	fileoperator.h	258;"	d	language:C
+C_harB13	fileoperator.h~	256;"	d	language:C	file:
+C_harB13_taigu	taiguoperator.h	189;"	d	language:C
+C_harB13_taigu	taiguoperator.h~	188;"	d	language:C	file:
+C_harB13_yada	yadaoperator.h	127;"	d	language:C
+C_harB13_yada	yadaoperator.h~	127;"	d	language:C	file:
+C_harB14	fileoperator.h	259;"	d	language:C
+C_harB14	fileoperator.h~	257;"	d	language:C	file:
+C_harB14_taigu	taiguoperator.h	190;"	d	language:C
+C_harB14_taigu	taiguoperator.h~	189;"	d	language:C	file:
+C_harB14_yada	yadaoperator.h	128;"	d	language:C
+C_harB14_yada	yadaoperator.h~	128;"	d	language:C	file:
+C_harB15	fileoperator.h	260;"	d	language:C
+C_harB15	fileoperator.h~	258;"	d	language:C	file:
+C_harB15_taigu	taiguoperator.h	191;"	d	language:C
+C_harB15_taigu	taiguoperator.h~	190;"	d	language:C	file:
+C_harB15_yada	yadaoperator.h	129;"	d	language:C
+C_harB15_yada	yadaoperator.h~	129;"	d	language:C	file:
+C_harB16	fileoperator.h	261;"	d	language:C
+C_harB16	fileoperator.h~	259;"	d	language:C	file:
+C_harB16_taigu	taiguoperator.h	192;"	d	language:C
+C_harB16_taigu	taiguoperator.h~	191;"	d	language:C	file:
+C_harB16_yada	yadaoperator.h	130;"	d	language:C
+C_harB16_yada	yadaoperator.h~	130;"	d	language:C	file:
+C_harB17	fileoperator.h	262;"	d	language:C
+C_harB17	fileoperator.h~	260;"	d	language:C	file:
+C_harB17_taigu	taiguoperator.h	193;"	d	language:C
+C_harB17_taigu	taiguoperator.h~	192;"	d	language:C	file:
+C_harB17_yada	yadaoperator.h	131;"	d	language:C
+C_harB17_yada	yadaoperator.h~	131;"	d	language:C	file:
+C_harB18	fileoperator.h	263;"	d	language:C
+C_harB18	fileoperator.h~	261;"	d	language:C	file:
+C_harB18_taigu	taiguoperator.h	194;"	d	language:C
+C_harB18_taigu	taiguoperator.h~	193;"	d	language:C	file:
+C_harB18_yada	yadaoperator.h	132;"	d	language:C
+C_harB18_yada	yadaoperator.h~	132;"	d	language:C	file:
+C_harB19	fileoperator.h	264;"	d	language:C
+C_harB19	fileoperator.h~	262;"	d	language:C	file:
+C_harB19_taigu	taiguoperator.h	195;"	d	language:C
+C_harB19_taigu	taiguoperator.h~	194;"	d	language:C	file:
+C_harB19_yada	yadaoperator.h	133;"	d	language:C
+C_harB19_yada	yadaoperator.h~	133;"	d	language:C	file:
+C_harB2	fileoperator.h	247;"	d	language:C
+C_harB2	fileoperator.h~	245;"	d	language:C	file:
+C_harB20	fileoperator.h	265;"	d	language:C
+C_harB20	fileoperator.h~	263;"	d	language:C	file:
+C_harB20_taigu	taiguoperator.h	196;"	d	language:C
+C_harB20_taigu	taiguoperator.h~	195;"	d	language:C	file:
+C_harB20_yada	yadaoperator.h	134;"	d	language:C
+C_harB20_yada	yadaoperator.h~	134;"	d	language:C	file:
+C_harB21	fileoperator.h	266;"	d	language:C
+C_harB21	fileoperator.h~	264;"	d	language:C	file:
+C_harB21_taigu	taiguoperator.h	197;"	d	language:C
+C_harB21_taigu	taiguoperator.h~	196;"	d	language:C	file:
+C_harB21_yada	yadaoperator.h	135;"	d	language:C
+C_harB21_yada	yadaoperator.h~	135;"	d	language:C	file:
+C_harB22	fileoperator.h	267;"	d	language:C
+C_harB22	fileoperator.h~	265;"	d	language:C	file:
+C_harB22_taigu	taiguoperator.h	198;"	d	language:C
+C_harB22_taigu	taiguoperator.h~	197;"	d	language:C	file:
+C_harB23	fileoperator.h	268;"	d	language:C
+C_harB23	fileoperator.h~	266;"	d	language:C	file:
+C_harB23_taigu	taiguoperator.h	199;"	d	language:C
+C_harB23_taigu	taiguoperator.h~	198;"	d	language:C	file:
+C_harB24	fileoperator.h	269;"	d	language:C
+C_harB24	fileoperator.h~	267;"	d	language:C	file:
+C_harB24_taigu	taiguoperator.h	200;"	d	language:C
+C_harB24_taigu	taiguoperator.h~	199;"	d	language:C	file:
+C_harB25	fileoperator.h	270;"	d	language:C
+C_harB25	fileoperator.h~	268;"	d	language:C	file:
+C_harB25_taigu	taiguoperator.h	201;"	d	language:C
+C_harB25_taigu	taiguoperator.h~	200;"	d	language:C	file:
+C_harB26	fileoperator.h	271;"	d	language:C
+C_harB26	fileoperator.h~	269;"	d	language:C	file:
+C_harB26_taigu	taiguoperator.h	202;"	d	language:C
+C_harB26_taigu	taiguoperator.h~	201;"	d	language:C	file:
+C_harB27	fileoperator.h	272;"	d	language:C
+C_harB27	fileoperator.h~	270;"	d	language:C	file:
+C_harB27_taigu	taiguoperator.h	203;"	d	language:C
+C_harB27_taigu	taiguoperator.h~	202;"	d	language:C	file:
+C_harB28	fileoperator.h	273;"	d	language:C
+C_harB28	fileoperator.h~	271;"	d	language:C	file:
+C_harB28_taigu	taiguoperator.h	204;"	d	language:C
+C_harB28_taigu	taiguoperator.h~	203;"	d	language:C	file:
+C_harB29	fileoperator.h	274;"	d	language:C
+C_harB29	fileoperator.h~	272;"	d	language:C	file:
+C_harB29_taigu	taiguoperator.h	205;"	d	language:C
+C_harB29_taigu	taiguoperator.h~	204;"	d	language:C	file:
+C_harB2_taigu	taiguoperator.h	178;"	d	language:C
+C_harB2_taigu	taiguoperator.h~	177;"	d	language:C	file:
+C_harB2_yada	yadaoperator.h	116;"	d	language:C
+C_harB2_yada	yadaoperator.h~	116;"	d	language:C	file:
+C_harB3	fileoperator.h	248;"	d	language:C
+C_harB3	fileoperator.h~	246;"	d	language:C	file:
+C_harB30	fileoperator.h	275;"	d	language:C
+C_harB30	fileoperator.h~	273;"	d	language:C	file:
+C_harB30_taigu	taiguoperator.h	206;"	d	language:C
+C_harB30_taigu	taiguoperator.h~	205;"	d	language:C	file:
+C_harB31	fileoperator.h	276;"	d	language:C
+C_harB31	fileoperator.h~	274;"	d	language:C	file:
+C_harB31_taigu	taiguoperator.h	207;"	d	language:C
+C_harB31_taigu	taiguoperator.h~	206;"	d	language:C	file:
+C_harB32	fileoperator.h	277;"	d	language:C
+C_harB32	fileoperator.h~	275;"	d	language:C	file:
+C_harB33	fileoperator.h	278;"	d	language:C
+C_harB33	fileoperator.h~	276;"	d	language:C	file:
+C_harB34	fileoperator.h	279;"	d	language:C
+C_harB34	fileoperator.h~	277;"	d	language:C	file:
+C_harB35	fileoperator.h	280;"	d	language:C
+C_harB35	fileoperator.h~	278;"	d	language:C	file:
+C_harB36	fileoperator.h	281;"	d	language:C
+C_harB36	fileoperator.h~	279;"	d	language:C	file:
+C_harB37	fileoperator.h	282;"	d	language:C
+C_harB37	fileoperator.h~	280;"	d	language:C	file:
+C_harB38	fileoperator.h	283;"	d	language:C
+C_harB38	fileoperator.h~	281;"	d	language:C	file:
+C_harB39	fileoperator.h	284;"	d	language:C
+C_harB39	fileoperator.h~	282;"	d	language:C	file:
+C_harB3_taigu	taiguoperator.h	179;"	d	language:C
+C_harB3_taigu	taiguoperator.h~	178;"	d	language:C	file:
+C_harB3_yada	yadaoperator.h	117;"	d	language:C
+C_harB3_yada	yadaoperator.h~	117;"	d	language:C	file:
+C_harB4	fileoperator.h	249;"	d	language:C
+C_harB4	fileoperator.h~	247;"	d	language:C	file:
+C_harB40	fileoperator.h	285;"	d	language:C
+C_harB40	fileoperator.h~	283;"	d	language:C	file:
+C_harB41	fileoperator.h	286;"	d	language:C
+C_harB41	fileoperator.h~	284;"	d	language:C	file:
+C_harB42	fileoperator.h	287;"	d	language:C
+C_harB42	fileoperator.h~	285;"	d	language:C	file:
+C_harB43	fileoperator.h	288;"	d	language:C
+C_harB43	fileoperator.h~	286;"	d	language:C	file:
+C_harB44	fileoperator.h	289;"	d	language:C
+C_harB44	fileoperator.h~	287;"	d	language:C	file:
+C_harB45	fileoperator.h	290;"	d	language:C
+C_harB45	fileoperator.h~	288;"	d	language:C	file:
+C_harB46	fileoperator.h	291;"	d	language:C
+C_harB46	fileoperator.h~	289;"	d	language:C	file:
+C_harB47	fileoperator.h	292;"	d	language:C
+C_harB47	fileoperator.h~	290;"	d	language:C	file:
+C_harB48	fileoperator.h	293;"	d	language:C
+C_harB48	fileoperator.h~	291;"	d	language:C	file:
+C_harB49	fileoperator.h	294;"	d	language:C
+C_harB49	fileoperator.h~	292;"	d	language:C	file:
+C_harB4_taigu	taiguoperator.h	180;"	d	language:C
+C_harB4_taigu	taiguoperator.h~	179;"	d	language:C	file:
+C_harB4_yada	yadaoperator.h	118;"	d	language:C
+C_harB4_yada	yadaoperator.h~	118;"	d	language:C	file:
+C_harB5	fileoperator.h	250;"	d	language:C
+C_harB5	fileoperator.h~	248;"	d	language:C	file:
+C_harB50	fileoperator.h	295;"	d	language:C
+C_harB50	fileoperator.h~	293;"	d	language:C	file:
+C_harB5_taigu	taiguoperator.h	181;"	d	language:C
+C_harB5_taigu	taiguoperator.h~	180;"	d	language:C	file:
+C_harB5_yada	yadaoperator.h	119;"	d	language:C
+C_harB5_yada	yadaoperator.h~	119;"	d	language:C	file:
+C_harB6	fileoperator.h	251;"	d	language:C
+C_harB6	fileoperator.h~	249;"	d	language:C	file:
+C_harB6_taigu	taiguoperator.h	182;"	d	language:C
+C_harB6_taigu	taiguoperator.h~	181;"	d	language:C	file:
+C_harB6_yada	yadaoperator.h	120;"	d	language:C
+C_harB6_yada	yadaoperator.h~	120;"	d	language:C	file:
+C_harB7	fileoperator.h	252;"	d	language:C
+C_harB7	fileoperator.h~	250;"	d	language:C	file:
+C_harB7_taigu	taiguoperator.h	183;"	d	language:C
+C_harB7_taigu	taiguoperator.h~	182;"	d	language:C	file:
+C_harB7_yada	yadaoperator.h	121;"	d	language:C
+C_harB7_yada	yadaoperator.h~	121;"	d	language:C	file:
+C_harB8	fileoperator.h	253;"	d	language:C
+C_harB8	fileoperator.h~	251;"	d	language:C	file:
+C_harB8_taigu	taiguoperator.h	184;"	d	language:C
+C_harB8_taigu	taiguoperator.h~	183;"	d	language:C	file:
+C_harB8_yada	yadaoperator.h	122;"	d	language:C
+C_harB8_yada	yadaoperator.h~	122;"	d	language:C	file:
+C_harB9	fileoperator.h	254;"	d	language:C
+C_harB9	fileoperator.h~	252;"	d	language:C	file:
+C_harB9_taigu	taiguoperator.h	185;"	d	language:C
+C_harB9_taigu	taiguoperator.h~	184;"	d	language:C	file:
+C_harB9_yada	yadaoperator.h	123;"	d	language:C
+C_harB9_yada	yadaoperator.h~	123;"	d	language:C	file:
+C_harC10	fileoperator.h	304;"	d	language:C
+C_harC10	fileoperator.h~	302;"	d	language:C	file:
+C_harC10_taigu	taiguoperator.h	217;"	d	language:C
+C_harC10_taigu	taiguoperator.h~	216;"	d	language:C	file:
+C_harC10_yada	yadaoperator.h	145;"	d	language:C
+C_harC10_yada	yadaoperator.h~	145;"	d	language:C	file:
+C_harC11	fileoperator.h	305;"	d	language:C
+C_harC11	fileoperator.h~	303;"	d	language:C	file:
+C_harC11_taigu	taiguoperator.h	218;"	d	language:C
+C_harC11_taigu	taiguoperator.h~	217;"	d	language:C	file:
+C_harC11_yada	yadaoperator.h	146;"	d	language:C
+C_harC11_yada	yadaoperator.h~	146;"	d	language:C	file:
+C_harC12	fileoperator.h	306;"	d	language:C
+C_harC12	fileoperator.h~	304;"	d	language:C	file:
+C_harC12_taigu	taiguoperator.h	219;"	d	language:C
+C_harC12_taigu	taiguoperator.h~	218;"	d	language:C	file:
+C_harC12_yada	yadaoperator.h	147;"	d	language:C
+C_harC12_yada	yadaoperator.h~	147;"	d	language:C	file:
+C_harC13	fileoperator.h	307;"	d	language:C
+C_harC13	fileoperator.h~	305;"	d	language:C	file:
+C_harC13_taigu	taiguoperator.h	220;"	d	language:C
+C_harC13_taigu	taiguoperator.h~	219;"	d	language:C	file:
+C_harC13_yada	yadaoperator.h	148;"	d	language:C
+C_harC13_yada	yadaoperator.h~	148;"	d	language:C	file:
+C_harC14	fileoperator.h	308;"	d	language:C
+C_harC14	fileoperator.h~	306;"	d	language:C	file:
+C_harC14_taigu	taiguoperator.h	221;"	d	language:C
+C_harC14_taigu	taiguoperator.h~	220;"	d	language:C	file:
+C_harC14_yada	yadaoperator.h	149;"	d	language:C
+C_harC14_yada	yadaoperator.h~	149;"	d	language:C	file:
+C_harC15	fileoperator.h	309;"	d	language:C
+C_harC15	fileoperator.h~	307;"	d	language:C	file:
+C_harC15_taigu	taiguoperator.h	222;"	d	language:C
+C_harC15_taigu	taiguoperator.h~	221;"	d	language:C	file:
+C_harC15_yada	yadaoperator.h	150;"	d	language:C
+C_harC15_yada	yadaoperator.h~	150;"	d	language:C	file:
+C_harC16	fileoperator.h	310;"	d	language:C
+C_harC16	fileoperator.h~	308;"	d	language:C	file:
+C_harC16_taigu	taiguoperator.h	223;"	d	language:C
+C_harC16_taigu	taiguoperator.h~	222;"	d	language:C	file:
+C_harC16_yada	yadaoperator.h	151;"	d	language:C
+C_harC16_yada	yadaoperator.h~	151;"	d	language:C	file:
+C_harC17	fileoperator.h	311;"	d	language:C
+C_harC17	fileoperator.h~	309;"	d	language:C	file:
+C_harC17_taigu	taiguoperator.h	224;"	d	language:C
+C_harC17_taigu	taiguoperator.h~	223;"	d	language:C	file:
+C_harC17_yada	yadaoperator.h	152;"	d	language:C
+C_harC17_yada	yadaoperator.h~	152;"	d	language:C	file:
+C_harC18	fileoperator.h	312;"	d	language:C
+C_harC18	fileoperator.h~	310;"	d	language:C	file:
+C_harC18_taigu	taiguoperator.h	225;"	d	language:C
+C_harC18_taigu	taiguoperator.h~	224;"	d	language:C	file:
+C_harC18_yada	yadaoperator.h	153;"	d	language:C
+C_harC18_yada	yadaoperator.h~	153;"	d	language:C	file:
+C_harC19	fileoperator.h	313;"	d	language:C
+C_harC19	fileoperator.h~	311;"	d	language:C	file:
+C_harC19_taigu	taiguoperator.h	226;"	d	language:C
+C_harC19_taigu	taiguoperator.h~	225;"	d	language:C	file:
+C_harC19_yada	yadaoperator.h	154;"	d	language:C
+C_harC19_yada	yadaoperator.h~	154;"	d	language:C	file:
+C_harC2	fileoperator.h	296;"	d	language:C
+C_harC2	fileoperator.h~	294;"	d	language:C	file:
+C_harC20	fileoperator.h	314;"	d	language:C
+C_harC20	fileoperator.h~	312;"	d	language:C	file:
+C_harC20_taigu	taiguoperator.h	227;"	d	language:C
+C_harC20_taigu	taiguoperator.h~	226;"	d	language:C	file:
+C_harC20_yada	yadaoperator.h	155;"	d	language:C
+C_harC20_yada	yadaoperator.h~	155;"	d	language:C	file:
+C_harC21	fileoperator.h	315;"	d	language:C
+C_harC21	fileoperator.h~	313;"	d	language:C	file:
+C_harC21_taigu	taiguoperator.h	228;"	d	language:C
+C_harC21_taigu	taiguoperator.h~	227;"	d	language:C	file:
+C_harC21_yada	yadaoperator.h	156;"	d	language:C
+C_harC21_yada	yadaoperator.h~	156;"	d	language:C	file:
+C_harC22	fileoperator.h	316;"	d	language:C
+C_harC22	fileoperator.h~	314;"	d	language:C	file:
+C_harC22_taigu	taiguoperator.h	229;"	d	language:C
+C_harC22_taigu	taiguoperator.h~	228;"	d	language:C	file:
+C_harC23	fileoperator.h	317;"	d	language:C
+C_harC23	fileoperator.h~	315;"	d	language:C	file:
+C_harC23_taigu	taiguoperator.h	230;"	d	language:C
+C_harC23_taigu	taiguoperator.h~	229;"	d	language:C	file:
+C_harC24	fileoperator.h	318;"	d	language:C
+C_harC24	fileoperator.h~	316;"	d	language:C	file:
+C_harC24_taigu	taiguoperator.h	231;"	d	language:C
+C_harC24_taigu	taiguoperator.h~	230;"	d	language:C	file:
+C_harC25	fileoperator.h	319;"	d	language:C
+C_harC25	fileoperator.h~	317;"	d	language:C	file:
+C_harC25_taigu	taiguoperator.h	232;"	d	language:C
+C_harC25_taigu	taiguoperator.h~	231;"	d	language:C	file:
+C_harC26	fileoperator.h	320;"	d	language:C
+C_harC26	fileoperator.h~	318;"	d	language:C	file:
+C_harC26_taigu	taiguoperator.h	233;"	d	language:C
+C_harC26_taigu	taiguoperator.h~	232;"	d	language:C	file:
+C_harC27	fileoperator.h	321;"	d	language:C
+C_harC27	fileoperator.h~	319;"	d	language:C	file:
+C_harC27_taigu	taiguoperator.h	234;"	d	language:C
+C_harC27_taigu	taiguoperator.h~	233;"	d	language:C	file:
+C_harC28	fileoperator.h	322;"	d	language:C
+C_harC28	fileoperator.h~	320;"	d	language:C	file:
+C_harC28_taigu	taiguoperator.h	235;"	d	language:C
+C_harC28_taigu	taiguoperator.h~	234;"	d	language:C	file:
+C_harC29	fileoperator.h	323;"	d	language:C
+C_harC29	fileoperator.h~	321;"	d	language:C	file:
+C_harC29_taigu	taiguoperator.h	236;"	d	language:C
+C_harC29_taigu	taiguoperator.h~	235;"	d	language:C	file:
+C_harC2_taigu	taiguoperator.h	209;"	d	language:C
+C_harC2_taigu	taiguoperator.h~	208;"	d	language:C	file:
+C_harC2_yada	yadaoperator.h	137;"	d	language:C
+C_harC2_yada	yadaoperator.h~	137;"	d	language:C	file:
+C_harC3	fileoperator.h	297;"	d	language:C
+C_harC3	fileoperator.h~	295;"	d	language:C	file:
+C_harC30	fileoperator.h	324;"	d	language:C
+C_harC30	fileoperator.h~	322;"	d	language:C	file:
+C_harC30_taigu	taiguoperator.h	237;"	d	language:C
+C_harC30_taigu	taiguoperator.h~	236;"	d	language:C	file:
+C_harC31	fileoperator.h	325;"	d	language:C
+C_harC31	fileoperator.h~	323;"	d	language:C	file:
+C_harC31_taigu	taiguoperator.h	238;"	d	language:C
+C_harC31_taigu	taiguoperator.h~	237;"	d	language:C	file:
+C_harC32	fileoperator.h	326;"	d	language:C
+C_harC32	fileoperator.h~	324;"	d	language:C	file:
+C_harC33	fileoperator.h	327;"	d	language:C
+C_harC33	fileoperator.h~	325;"	d	language:C	file:
+C_harC34	fileoperator.h	328;"	d	language:C
+C_harC34	fileoperator.h~	326;"	d	language:C	file:
+C_harC35	fileoperator.h	329;"	d	language:C
+C_harC35	fileoperator.h~	327;"	d	language:C	file:
+C_harC36	fileoperator.h	330;"	d	language:C
+C_harC36	fileoperator.h~	328;"	d	language:C	file:
+C_harC37	fileoperator.h	331;"	d	language:C
+C_harC37	fileoperator.h~	329;"	d	language:C	file:
+C_harC38	fileoperator.h	332;"	d	language:C
+C_harC38	fileoperator.h~	330;"	d	language:C	file:
+C_harC39	fileoperator.h	333;"	d	language:C
+C_harC39	fileoperator.h~	331;"	d	language:C	file:
+C_harC3_taigu	taiguoperator.h	210;"	d	language:C
+C_harC3_taigu	taiguoperator.h~	209;"	d	language:C	file:
+C_harC3_yada	yadaoperator.h	138;"	d	language:C
+C_harC3_yada	yadaoperator.h~	138;"	d	language:C	file:
+C_harC4	fileoperator.h	298;"	d	language:C
+C_harC4	fileoperator.h~	296;"	d	language:C	file:
+C_harC40	fileoperator.h	334;"	d	language:C
+C_harC40	fileoperator.h~	332;"	d	language:C	file:
+C_harC41	fileoperator.h	335;"	d	language:C
+C_harC41	fileoperator.h~	333;"	d	language:C	file:
+C_harC42	fileoperator.h	336;"	d	language:C
+C_harC42	fileoperator.h~	334;"	d	language:C	file:
+C_harC43	fileoperator.h	337;"	d	language:C
+C_harC43	fileoperator.h~	335;"	d	language:C	file:
+C_harC44	fileoperator.h	338;"	d	language:C
+C_harC44	fileoperator.h~	336;"	d	language:C	file:
+C_harC45	fileoperator.h	339;"	d	language:C
+C_harC45	fileoperator.h~	337;"	d	language:C	file:
+C_harC46	fileoperator.h	340;"	d	language:C
+C_harC46	fileoperator.h~	338;"	d	language:C	file:
+C_harC47	fileoperator.h	341;"	d	language:C
+C_harC47	fileoperator.h~	339;"	d	language:C	file:
+C_harC48	fileoperator.h	342;"	d	language:C
+C_harC48	fileoperator.h~	340;"	d	language:C	file:
+C_harC49	fileoperator.h	343;"	d	language:C
+C_harC49	fileoperator.h~	341;"	d	language:C	file:
+C_harC4_taigu	taiguoperator.h	211;"	d	language:C
+C_harC4_taigu	taiguoperator.h~	210;"	d	language:C	file:
+C_harC4_yada	yadaoperator.h	139;"	d	language:C
+C_harC4_yada	yadaoperator.h~	139;"	d	language:C	file:
+C_harC5	fileoperator.h	299;"	d	language:C
+C_harC5	fileoperator.h~	297;"	d	language:C	file:
+C_harC50	fileoperator.h	344;"	d	language:C
+C_harC50	fileoperator.h~	342;"	d	language:C	file:
+C_harC5_taigu	taiguoperator.h	212;"	d	language:C
+C_harC5_taigu	taiguoperator.h~	211;"	d	language:C	file:
+C_harC5_yada	yadaoperator.h	140;"	d	language:C
+C_harC5_yada	yadaoperator.h~	140;"	d	language:C	file:
+C_harC6	fileoperator.h	300;"	d	language:C
+C_harC6	fileoperator.h~	298;"	d	language:C	file:
+C_harC6_taigu	taiguoperator.h	213;"	d	language:C
+C_harC6_taigu	taiguoperator.h~	212;"	d	language:C	file:
+C_harC6_yada	yadaoperator.h	141;"	d	language:C
+C_harC6_yada	yadaoperator.h~	141;"	d	language:C	file:
+C_harC7	fileoperator.h	301;"	d	language:C
+C_harC7	fileoperator.h~	299;"	d	language:C	file:
+C_harC7_taigu	taiguoperator.h	214;"	d	language:C
+C_harC7_taigu	taiguoperator.h~	213;"	d	language:C	file:
+C_harC7_yada	yadaoperator.h	142;"	d	language:C
+C_harC7_yada	yadaoperator.h~	142;"	d	language:C	file:
+C_harC8	fileoperator.h	302;"	d	language:C
+C_harC8	fileoperator.h~	300;"	d	language:C	file:
+C_harC8_taigu	taiguoperator.h	215;"	d	language:C
+C_harC8_taigu	taiguoperator.h~	214;"	d	language:C	file:
+C_harC8_yada	yadaoperator.h	143;"	d	language:C
+C_harC8_yada	yadaoperator.h~	143;"	d	language:C	file:
+C_harC9	fileoperator.h	303;"	d	language:C
+C_harC9	fileoperator.h~	301;"	d	language:C	file:
+C_harC9_taigu	taiguoperator.h	216;"	d	language:C
+C_harC9_taigu	taiguoperator.h~	215;"	d	language:C	file:
+C_harC9_yada	yadaoperator.h	144;"	d	language:C
+C_harC9_yada	yadaoperator.h~	144;"	d	language:C	file:
+C_imdegree	fileoperator.h	368;"	d	language:C
+C_imdegree	fileoperator.h~	366;"	d	language:C	file:
+C_imdegree_taigu	taiguoperator.h	34;"	d	language:C
+C_imdegree_taigu	taiguoperator.h~	33;"	d	language:C	file:
+C_low_taigu	taiguoperator.h	21;"	d	language:C
+C_wav_disA	fileoperator.h	348;"	d	language:C
+C_wav_disA	fileoperator.h~	346;"	d	language:C	file:
+C_wav_disA_taigu	taiguoperator.h	30;"	d	language:C
+C_wav_disA_taigu	taiguoperator.h~	29;"	d	language:C	file:
+C_wav_disB	fileoperator.h	349;"	d	language:C
+C_wav_disB	fileoperator.h~	347;"	d	language:C	file:
+C_wav_disB_taigu	taiguoperator.h	31;"	d	language:C
+C_wav_disB_taigu	taiguoperator.h~	30;"	d	language:C	file:
+C_wav_disC	fileoperator.h	350;"	d	language:C
+C_wav_disC	fileoperator.h~	348;"	d	language:C	file:
+C_wav_disC_taigu	taiguoperator.h	32;"	d	language:C
+C_wav_disC_taigu	taiguoperator.h~	31;"	d	language:C	file:
+C_zero_taigu	taiguoperator.h	20;"	d	language:C
+C_zero_taigu	taiguoperator.h~	20;"	d	language:C	file:
+FILEOPERATOR_H	fileoperator.h	2;"	d	language:C
+FILEOPERATOR_H	fileoperator.h~	2;"	d	language:C	file:
+F_ELECNAME	fileoperator.h	11;"	d	language:C
+F_ELECNAME	fileoperator.h~	9;"	d	language:C	file:
+F_HISTORY	fileoperator.h	16;"	d	language:C
+F_HISTORY	fileoperator.h~	14;"	d	language:C	file:
+F_NEWID	fileoperator.h	12;"	d	language:C
+F_NEWID	fileoperator.h~	10;"	d	language:C	file:
+F_NEWIDDATE	fileoperator.h	13;"	d	language:C
+F_NEWIDDATE	fileoperator.h~	11;"	d	language:C	file:
+F_REALTIME	fileoperator.h	15;"	d	language:C
+F_REALTIME	fileoperator.h~	13;"	d	language:C	file:
+F_SETFILE_LENGTH	fileoperator.h	9;"	d	language:C
+F_TOTALNUMBER	fileoperator.h	14;"	d	language:C
+F_TOTALNUMBER	fileoperator.h~	12;"	d	language:C	file:
+K	11	/^/;"	v	language:C
+O	10	/^,/;"	v	language:C
+P_act_powA	fileoperator.h	351;"	d	language:C
+P_act_powA	fileoperator.h~	349;"	d	language:C	file:
+P_act_powB	fileoperator.h	352;"	d	language:C
+P_act_powB	fileoperator.h~	350;"	d	language:C	file:
+P_act_powC	fileoperator.h	353;"	d	language:C
+P_act_powC	fileoperator.h~	351;"	d	language:C	file:
+P_act_powT	fileoperator.h	354;"	d	language:C
+P_act_powT	fileoperator.h~	352;"	d	language:C	file:
+P_act_powT_taigu	taiguoperator.h	240;"	d	language:C
+P_act_powT_taigu	taiguoperator.h~	239;"	d	language:C	file:
+P_act_powT_yada	yadaoperator.h	158;"	d	language:C
+P_act_powT_yada	yadaoperator.h~	158;"	d	language:C	file:
+P_rea_PowT_taigu	taiguoperator.h	241;"	d	language:C
+P_rea_PowT_taigu	taiguoperator.h~	240;"	d	language:C	file:
+P_rea_PowT_yada	yadaoperator.h	159;"	d	language:C
+P_rea_PowT_yada	yadaoperator.h~	159;"	d	language:C	file:
+P_rea_powA	fileoperator.h	355;"	d	language:C
+P_rea_powA	fileoperator.h~	353;"	d	language:C	file:
+P_rea_powB	fileoperator.h	356;"	d	language:C
+P_rea_powB	fileoperator.h~	354;"	d	language:C	file:
+P_rea_powC	fileoperator.h	357;"	d	language:C
+P_rea_powC	fileoperator.h~	355;"	d	language:C	file:
+P_rea_powT	fileoperator.h	358;"	d	language:C
+P_rea_powT	fileoperator.h~	356;"	d	language:C	file:
+RECORDDATALEN	fileoperator.h	19;"	d	language:C
+RECORDDATALEN	fileoperator.h~	17;"	d	language:C	file:
+RECORDLEN	fileoperator.h	18;"	d	language:C
+RECORDLEN	fileoperator.h~	16;"	d	language:C	file:
+RECORDTIMELEN	fileoperator.h	20;"	d	language:C
+RECORDTIMELEN	fileoperator.h~	18;"	d	language:C	file:
+R_act_powA	fileoperator.h	359;"	d	language:C
+R_act_powA	fileoperator.h~	357;"	d	language:C	file:
+R_act_powB	fileoperator.h	360;"	d	language:C
+R_act_powB	fileoperator.h~	358;"	d	language:C	file:
+R_act_powC	fileoperator.h	361;"	d	language:C
+R_act_powC	fileoperator.h~	359;"	d	language:C	file:
+R_act_powT	fileoperator.h	362;"	d	language:C
+R_act_powT	fileoperator.h~	360;"	d	language:C	file:
+R_act_powT_yada	yadaoperator.h	160;"	d	language:C
+R_act_powT_yada	yadaoperator.h~	160;"	d	language:C	file:
+R_rea_powA	fileoperator.h	363;"	d	language:C
+R_rea_powA	fileoperator.h~	361;"	d	language:C	file:
+R_rea_powB	fileoperator.h	364;"	d	language:C
+R_rea_powB	fileoperator.h~	362;"	d	language:C	file:
+R_rea_powC	fileoperator.h	365;"	d	language:C
+R_rea_powC	fileoperator.h~	363;"	d	language:C	file:
+R_rea_powT	fileoperator.h	366;"	d	language:C
+R_rea_powT	fileoperator.h~	364;"	d	language:C	file:
+R_rea_powT_yada	yadaoperator.h	161;"	d	language:C
+R_rea_powT_yada	yadaoperator.h~	161;"	d	language:C	file:
+Rea_powerA	fileoperator.h	32;"	d	language:C
+Rea_powerA	fileoperator.h~	30;"	d	language:C	file:
+Rea_powerA_taigu	taiguoperator.h	40;"	d	language:C
+Rea_powerA_taigu	taiguoperator.h~	39;"	d	language:C	file:
+Rea_powerA_yada	yadaoperator.h	18;"	d	language:C
+Rea_powerA_yada	yadaoperator.h~	18;"	d	language:C	file:
+Rea_powerB	fileoperator.h	33;"	d	language:C
+Rea_powerB	fileoperator.h~	31;"	d	language:C	file:
+Rea_powerB_taigu	taiguoperator.h	41;"	d	language:C
+Rea_powerB_taigu	taiguoperator.h~	40;"	d	language:C	file:
+Rea_powerB_yada	yadaoperator.h	19;"	d	language:C
+Rea_powerB_yada	yadaoperator.h~	19;"	d	language:C	file:
+Rea_powerC	fileoperator.h	34;"	d	language:C
+Rea_powerC	fileoperator.h~	32;"	d	language:C	file:
+Rea_powerC_taigu	taiguoperator.h	42;"	d	language:C
+Rea_powerC_taigu	taiguoperator.h~	41;"	d	language:C	file:
+Rea_powerC_yada	yadaoperator.h	20;"	d	language:C
+Rea_powerC_yada	yadaoperator.h~	20;"	d	language:C	file:
+Rea_powerT	fileoperator.h	35;"	d	language:C
+Rea_powerT	fileoperator.h~	33;"	d	language:C	file:
+Rea_powerT_taigu	taiguoperator.h	43;"	d	language:C
+Rea_powerT_taigu	taiguoperator.h~	42;"	d	language:C	file:
+Rea_powerT_yada	yadaoperator.h	21;"	d	language:C
+Rea_powerT_yada	yadaoperator.h~	21;"	d	language:C	file:
+SERIAL_H	serial.h	2;"	d	language:C
+SERIAL_H	serial.h~	2;"	d	language:C	file:
+TAIDUOPERATOR_H	taiguoperator.h	2;"	d	language:C
+TAIDUOPERATOR_H	taiguoperator.h~	2;"	d	language:C	file:
+TOTALCNT	fileoperator.h	17;"	d	language:C
+TOTALCNT	fileoperator.h~	15;"	d	language:C	file:
+V_A	fileoperator.h	22;"	d	language:C
+V_A	fileoperator.h~	20;"	d	language:C	file:
+V_ABline_taigu	taiguoperator.h	12;"	d	language:C
+V_ABline_taigu	taiguoperator.h~	12;"	d	language:C	file:
+V_A_taigu	taiguoperator.h	8;"	d	language:C
+V_A_taigu	taiguoperator.h~	8;"	d	language:C	file:
+V_A_yada	yadaoperator.h	8;"	d	language:C
+V_A_yada	yadaoperator.h~	8;"	d	language:C	file:
+V_B	fileoperator.h	23;"	d	language:C
+V_B	fileoperator.h~	21;"	d	language:C	file:
+V_BCline_taigu	taiguoperator.h	13;"	d	language:C
+V_BCline_taigu	taiguoperator.h~	13;"	d	language:C	file:
+V_B_taigu	taiguoperator.h	9;"	d	language:C
+V_B_taigu	taiguoperator.h~	9;"	d	language:C	file:
+V_B_yada	yadaoperator.h	9;"	d	language:C
+V_B_yada	yadaoperator.h~	9;"	d	language:C	file:
+V_C	fileoperator.h	24;"	d	language:C
+V_C	fileoperator.h~	22;"	d	language:C	file:
+V_CAline_taigu	taiguoperator.h	14;"	d	language:C
+V_CAline_taigu	taiguoperator.h~	14;"	d	language:C	file:
+V_C_taigu	taiguoperator.h	10;"	d	language:C
+V_C_taigu	taiguoperator.h~	10;"	d	language:C	file:
+V_C_yada	yadaoperator.h	10;"	d	language:C
+V_C_yada	yadaoperator.h~	10;"	d	language:C	file:
+V_fundA	fileoperator.h	45;"	d	language:C
+V_fundA	fileoperator.h~	43;"	d	language:C	file:
+V_fundB	fileoperator.h	46;"	d	language:C
+V_fundB	fileoperator.h~	44;"	d	language:C	file:
+V_fundC	fileoperator.h	47;"	d	language:C
+V_fundC	fileoperator.h~	45;"	d	language:C	file:
+V_har_coA10	fileoperator.h	59;"	d	language:C
+V_har_coA10	fileoperator.h~	57;"	d	language:C	file:
+V_har_coA10_taigu	taiguoperator.h	62;"	d	language:C
+V_har_coA10_taigu	taiguoperator.h~	61;"	d	language:C	file:
+V_har_coA10_yada	yadaoperator.h	40;"	d	language:C
+V_har_coA10_yada	yadaoperator.h~	40;"	d	language:C	file:
+V_har_coA11	fileoperator.h	60;"	d	language:C
+V_har_coA11	fileoperator.h~	58;"	d	language:C	file:
+V_har_coA11_taigu	taiguoperator.h	63;"	d	language:C
+V_har_coA11_taigu	taiguoperator.h~	62;"	d	language:C	file:
+V_har_coA11_yada	yadaoperator.h	41;"	d	language:C
+V_har_coA11_yada	yadaoperator.h~	41;"	d	language:C	file:
+V_har_coA12	fileoperator.h	61;"	d	language:C
+V_har_coA12	fileoperator.h~	59;"	d	language:C	file:
+V_har_coA12_taigu	taiguoperator.h	64;"	d	language:C
+V_har_coA12_taigu	taiguoperator.h~	63;"	d	language:C	file:
+V_har_coA12_yada	yadaoperator.h	42;"	d	language:C
+V_har_coA12_yada	yadaoperator.h~	42;"	d	language:C	file:
+V_har_coA13	fileoperator.h	62;"	d	language:C
+V_har_coA13	fileoperator.h~	60;"	d	language:C	file:
+V_har_coA13_taigu	taiguoperator.h	65;"	d	language:C
+V_har_coA13_taigu	taiguoperator.h~	64;"	d	language:C	file:
+V_har_coA13_yada	yadaoperator.h	43;"	d	language:C
+V_har_coA13_yada	yadaoperator.h~	43;"	d	language:C	file:
+V_har_coA14	fileoperator.h	63;"	d	language:C
+V_har_coA14	fileoperator.h~	61;"	d	language:C	file:
+V_har_coA14_taigu	taiguoperator.h	66;"	d	language:C
+V_har_coA14_taigu	taiguoperator.h~	65;"	d	language:C	file:
+V_har_coA14_yada	yadaoperator.h	44;"	d	language:C
+V_har_coA14_yada	yadaoperator.h~	44;"	d	language:C	file:
+V_har_coA15	fileoperator.h	64;"	d	language:C
+V_har_coA15	fileoperator.h~	62;"	d	language:C	file:
+V_har_coA15_taigu	taiguoperator.h	67;"	d	language:C
+V_har_coA15_taigu	taiguoperator.h~	66;"	d	language:C	file:
+V_har_coA15_yada	yadaoperator.h	45;"	d	language:C
+V_har_coA15_yada	yadaoperator.h~	45;"	d	language:C	file:
+V_har_coA16	fileoperator.h	65;"	d	language:C
+V_har_coA16	fileoperator.h~	63;"	d	language:C	file:
+V_har_coA16_taigu	taiguoperator.h	68;"	d	language:C
+V_har_coA16_taigu	taiguoperator.h~	67;"	d	language:C	file:
+V_har_coA16_yada	yadaoperator.h	46;"	d	language:C
+V_har_coA16_yada	yadaoperator.h~	46;"	d	language:C	file:
+V_har_coA17	fileoperator.h	66;"	d	language:C
+V_har_coA17	fileoperator.h~	64;"	d	language:C	file:
+V_har_coA17_taigu	taiguoperator.h	69;"	d	language:C
+V_har_coA17_taigu	taiguoperator.h~	68;"	d	language:C	file:
+V_har_coA17_yada	yadaoperator.h	47;"	d	language:C
+V_har_coA17_yada	yadaoperator.h~	47;"	d	language:C	file:
+V_har_coA18	fileoperator.h	67;"	d	language:C
+V_har_coA18	fileoperator.h~	65;"	d	language:C	file:
+V_har_coA18_taigu	taiguoperator.h	70;"	d	language:C
+V_har_coA18_taigu	taiguoperator.h~	69;"	d	language:C	file:
+V_har_coA18_yada	yadaoperator.h	48;"	d	language:C
+V_har_coA18_yada	yadaoperator.h~	48;"	d	language:C	file:
+V_har_coA19	fileoperator.h	68;"	d	language:C
+V_har_coA19	fileoperator.h~	66;"	d	language:C	file:
+V_har_coA19_taigu	taiguoperator.h	71;"	d	language:C
+V_har_coA19_taigu	taiguoperator.h~	70;"	d	language:C	file:
+V_har_coA19_yada	yadaoperator.h	49;"	d	language:C
+V_har_coA19_yada	yadaoperator.h~	49;"	d	language:C	file:
+V_har_coA2	fileoperator.h	51;"	d	language:C
+V_har_coA2	fileoperator.h~	49;"	d	language:C	file:
+V_har_coA20	fileoperator.h	69;"	d	language:C
+V_har_coA20	fileoperator.h~	67;"	d	language:C	file:
+V_har_coA20_taigu	taiguoperator.h	72;"	d	language:C
+V_har_coA20_taigu	taiguoperator.h~	71;"	d	language:C	file:
+V_har_coA20_yada	yadaoperator.h	50;"	d	language:C
+V_har_coA20_yada	yadaoperator.h~	50;"	d	language:C	file:
+V_har_coA21	fileoperator.h	70;"	d	language:C
+V_har_coA21	fileoperator.h~	68;"	d	language:C	file:
+V_har_coA21_taigu	taiguoperator.h	73;"	d	language:C
+V_har_coA21_taigu	taiguoperator.h~	72;"	d	language:C	file:
+V_har_coA21_yada	yadaoperator.h	51;"	d	language:C
+V_har_coA21_yada	yadaoperator.h~	51;"	d	language:C	file:
+V_har_coA22	fileoperator.h	71;"	d	language:C
+V_har_coA22	fileoperator.h~	69;"	d	language:C	file:
+V_har_coA22_taigu	taiguoperator.h	74;"	d	language:C
+V_har_coA22_taigu	taiguoperator.h~	73;"	d	language:C	file:
+V_har_coA23	fileoperator.h	72;"	d	language:C
+V_har_coA23	fileoperator.h~	70;"	d	language:C	file:
+V_har_coA23_taigu	taiguoperator.h	75;"	d	language:C
+V_har_coA23_taigu	taiguoperator.h~	74;"	d	language:C	file:
+V_har_coA24	fileoperator.h	73;"	d	language:C
+V_har_coA24	fileoperator.h~	71;"	d	language:C	file:
+V_har_coA24_taigu	taiguoperator.h	76;"	d	language:C
+V_har_coA24_taigu	taiguoperator.h~	75;"	d	language:C	file:
+V_har_coA25	fileoperator.h	74;"	d	language:C
+V_har_coA25	fileoperator.h~	72;"	d	language:C	file:
+V_har_coA25_taigu	taiguoperator.h	77;"	d	language:C
+V_har_coA25_taigu	taiguoperator.h~	76;"	d	language:C	file:
+V_har_coA26	fileoperator.h	75;"	d	language:C
+V_har_coA26	fileoperator.h~	73;"	d	language:C	file:
+V_har_coA26_taigu	taiguoperator.h	78;"	d	language:C
+V_har_coA26_taigu	taiguoperator.h~	77;"	d	language:C	file:
+V_har_coA27	fileoperator.h	76;"	d	language:C
+V_har_coA27	fileoperator.h~	74;"	d	language:C	file:
+V_har_coA27_taigu	taiguoperator.h	79;"	d	language:C
+V_har_coA27_taigu	taiguoperator.h~	78;"	d	language:C	file:
+V_har_coA28	fileoperator.h	77;"	d	language:C
+V_har_coA28	fileoperator.h~	75;"	d	language:C	file:
+V_har_coA28_taigu	taiguoperator.h	80;"	d	language:C
+V_har_coA28_taigu	taiguoperator.h~	79;"	d	language:C	file:
+V_har_coA29	fileoperator.h	78;"	d	language:C
+V_har_coA29	fileoperator.h~	76;"	d	language:C	file:
+V_har_coA29_taigu	taiguoperator.h	81;"	d	language:C
+V_har_coA29_taigu	taiguoperator.h~	80;"	d	language:C	file:
+V_har_coA2_taigu	taiguoperator.h	54;"	d	language:C
+V_har_coA2_taigu	taiguoperator.h~	53;"	d	language:C	file:
+V_har_coA2_yada	yadaoperator.h	32;"	d	language:C
+V_har_coA2_yada	yadaoperator.h~	32;"	d	language:C	file:
+V_har_coA3	fileoperator.h	52;"	d	language:C
+V_har_coA3	fileoperator.h~	50;"	d	language:C	file:
+V_har_coA30	fileoperator.h	79;"	d	language:C
+V_har_coA30	fileoperator.h~	77;"	d	language:C	file:
+V_har_coA30_taigu	taiguoperator.h	82;"	d	language:C
+V_har_coA30_taigu	taiguoperator.h~	81;"	d	language:C	file:
+V_har_coA31	fileoperator.h	80;"	d	language:C
+V_har_coA31	fileoperator.h~	78;"	d	language:C	file:
+V_har_coA31_taigu	taiguoperator.h	83;"	d	language:C
+V_har_coA31_taigu	taiguoperator.h~	82;"	d	language:C	file:
+V_har_coA32	fileoperator.h	81;"	d	language:C
+V_har_coA32	fileoperator.h~	79;"	d	language:C	file:
+V_har_coA33	fileoperator.h	82;"	d	language:C
+V_har_coA33	fileoperator.h~	80;"	d	language:C	file:
+V_har_coA34	fileoperator.h	83;"	d	language:C
+V_har_coA34	fileoperator.h~	81;"	d	language:C	file:
+V_har_coA35	fileoperator.h	84;"	d	language:C
+V_har_coA35	fileoperator.h~	82;"	d	language:C	file:
+V_har_coA36	fileoperator.h	85;"	d	language:C
+V_har_coA36	fileoperator.h~	83;"	d	language:C	file:
+V_har_coA37	fileoperator.h	86;"	d	language:C
+V_har_coA37	fileoperator.h~	84;"	d	language:C	file:
+V_har_coA38	fileoperator.h	87;"	d	language:C
+V_har_coA38	fileoperator.h~	85;"	d	language:C	file:
+V_har_coA39	fileoperator.h	88;"	d	language:C
+V_har_coA39	fileoperator.h~	86;"	d	language:C	file:
+V_har_coA3_taigu	taiguoperator.h	55;"	d	language:C
+V_har_coA3_taigu	taiguoperator.h~	54;"	d	language:C	file:
+V_har_coA3_yada	yadaoperator.h	33;"	d	language:C
+V_har_coA3_yada	yadaoperator.h~	33;"	d	language:C	file:
+V_har_coA4	fileoperator.h	53;"	d	language:C
+V_har_coA4	fileoperator.h~	51;"	d	language:C	file:
+V_har_coA40	fileoperator.h	89;"	d	language:C
+V_har_coA40	fileoperator.h~	87;"	d	language:C	file:
+V_har_coA41	fileoperator.h	90;"	d	language:C
+V_har_coA41	fileoperator.h~	88;"	d	language:C	file:
+V_har_coA42	fileoperator.h	91;"	d	language:C
+V_har_coA42	fileoperator.h~	89;"	d	language:C	file:
+V_har_coA43	fileoperator.h	92;"	d	language:C
+V_har_coA43	fileoperator.h~	90;"	d	language:C	file:
+V_har_coA44	fileoperator.h	93;"	d	language:C
+V_har_coA44	fileoperator.h~	91;"	d	language:C	file:
+V_har_coA45	fileoperator.h	94;"	d	language:C
+V_har_coA45	fileoperator.h~	92;"	d	language:C	file:
+V_har_coA46	fileoperator.h	95;"	d	language:C
+V_har_coA46	fileoperator.h~	93;"	d	language:C	file:
+V_har_coA47	fileoperator.h	96;"	d	language:C
+V_har_coA47	fileoperator.h~	94;"	d	language:C	file:
+V_har_coA48	fileoperator.h	97;"	d	language:C
+V_har_coA48	fileoperator.h~	95;"	d	language:C	file:
+V_har_coA49	fileoperator.h	98;"	d	language:C
+V_har_coA49	fileoperator.h~	96;"	d	language:C	file:
+V_har_coA4_taigu	taiguoperator.h	56;"	d	language:C
+V_har_coA4_taigu	taiguoperator.h~	55;"	d	language:C	file:
+V_har_coA4_yada	yadaoperator.h	34;"	d	language:C
+V_har_coA4_yada	yadaoperator.h~	34;"	d	language:C	file:
+V_har_coA5	fileoperator.h	54;"	d	language:C
+V_har_coA5	fileoperator.h~	52;"	d	language:C	file:
+V_har_coA50	fileoperator.h	99;"	d	language:C
+V_har_coA50	fileoperator.h~	97;"	d	language:C	file:
+V_har_coA5_taigu	taiguoperator.h	57;"	d	language:C
+V_har_coA5_taigu	taiguoperator.h~	56;"	d	language:C	file:
+V_har_coA5_yada	yadaoperator.h	35;"	d	language:C
+V_har_coA5_yada	yadaoperator.h~	35;"	d	language:C	file:
+V_har_coA6	fileoperator.h	55;"	d	language:C
+V_har_coA6	fileoperator.h~	53;"	d	language:C	file:
+V_har_coA6_taigu	taiguoperator.h	58;"	d	language:C
+V_har_coA6_taigu	taiguoperator.h~	57;"	d	language:C	file:
+V_har_coA6_yada	yadaoperator.h	36;"	d	language:C
+V_har_coA6_yada	yadaoperator.h~	36;"	d	language:C	file:
+V_har_coA7	fileoperator.h	56;"	d	language:C
+V_har_coA7	fileoperator.h~	54;"	d	language:C	file:
+V_har_coA7_taigu	taiguoperator.h	59;"	d	language:C
+V_har_coA7_taigu	taiguoperator.h~	58;"	d	language:C	file:
+V_har_coA7_yada	yadaoperator.h	37;"	d	language:C
+V_har_coA7_yada	yadaoperator.h~	37;"	d	language:C	file:
+V_har_coA8	fileoperator.h	57;"	d	language:C
+V_har_coA8	fileoperator.h~	55;"	d	language:C	file:
+V_har_coA8_taigu	taiguoperator.h	60;"	d	language:C
+V_har_coA8_taigu	taiguoperator.h~	59;"	d	language:C	file:
+V_har_coA8_yada	yadaoperator.h	38;"	d	language:C
+V_har_coA8_yada	yadaoperator.h~	38;"	d	language:C	file:
+V_har_coA9	fileoperator.h	58;"	d	language:C
+V_har_coA9	fileoperator.h~	56;"	d	language:C	file:
+V_har_coA9_taigu	taiguoperator.h	61;"	d	language:C
+V_har_coA9_taigu	taiguoperator.h~	60;"	d	language:C	file:
+V_har_coA9_yada	yadaoperator.h	39;"	d	language:C
+V_har_coA9_yada	yadaoperator.h~	39;"	d	language:C	file:
+V_har_coB10	fileoperator.h	108;"	d	language:C
+V_har_coB10	fileoperator.h~	106;"	d	language:C	file:
+V_har_coB10_taigu	taiguoperator.h	93;"	d	language:C
+V_har_coB10_taigu	taiguoperator.h~	92;"	d	language:C	file:
+V_har_coB10_yada	yadaoperator.h	61;"	d	language:C
+V_har_coB10_yada	yadaoperator.h~	61;"	d	language:C	file:
+V_har_coB11	fileoperator.h	109;"	d	language:C
+V_har_coB11	fileoperator.h~	107;"	d	language:C	file:
+V_har_coB11_taigu	taiguoperator.h	94;"	d	language:C
+V_har_coB11_taigu	taiguoperator.h~	93;"	d	language:C	file:
+V_har_coB11_yada	yadaoperator.h	62;"	d	language:C
+V_har_coB11_yada	yadaoperator.h~	62;"	d	language:C	file:
+V_har_coB12	fileoperator.h	110;"	d	language:C
+V_har_coB12	fileoperator.h~	108;"	d	language:C	file:
+V_har_coB12_taigu	taiguoperator.h	95;"	d	language:C
+V_har_coB12_taigu	taiguoperator.h~	94;"	d	language:C	file:
+V_har_coB12_yada	yadaoperator.h	63;"	d	language:C
+V_har_coB12_yada	yadaoperator.h~	63;"	d	language:C	file:
+V_har_coB13	fileoperator.h	111;"	d	language:C
+V_har_coB13	fileoperator.h~	109;"	d	language:C	file:
+V_har_coB13_taigu	taiguoperator.h	96;"	d	language:C
+V_har_coB13_taigu	taiguoperator.h~	95;"	d	language:C	file:
+V_har_coB13_yada	yadaoperator.h	64;"	d	language:C
+V_har_coB13_yada	yadaoperator.h~	64;"	d	language:C	file:
+V_har_coB14	fileoperator.h	112;"	d	language:C
+V_har_coB14	fileoperator.h~	110;"	d	language:C	file:
+V_har_coB14_taigu	taiguoperator.h	97;"	d	language:C
+V_har_coB14_taigu	taiguoperator.h~	96;"	d	language:C	file:
+V_har_coB14_yada	yadaoperator.h	65;"	d	language:C
+V_har_coB14_yada	yadaoperator.h~	65;"	d	language:C	file:
+V_har_coB15	fileoperator.h	113;"	d	language:C
+V_har_coB15	fileoperator.h~	111;"	d	language:C	file:
+V_har_coB15_taigu	taiguoperator.h	98;"	d	language:C
+V_har_coB15_taigu	taiguoperator.h~	97;"	d	language:C	file:
+V_har_coB15_yada	yadaoperator.h	66;"	d	language:C
+V_har_coB15_yada	yadaoperator.h~	66;"	d	language:C	file:
+V_har_coB16	fileoperator.h	114;"	d	language:C
+V_har_coB16	fileoperator.h~	112;"	d	language:C	file:
+V_har_coB16_taigu	taiguoperator.h	99;"	d	language:C
+V_har_coB16_taigu	taiguoperator.h~	98;"	d	language:C	file:
+V_har_coB16_yada	yadaoperator.h	67;"	d	language:C
+V_har_coB16_yada	yadaoperator.h~	67;"	d	language:C	file:
+V_har_coB17	fileoperator.h	115;"	d	language:C
+V_har_coB17	fileoperator.h~	113;"	d	language:C	file:
+V_har_coB17_taigu	taiguoperator.h	100;"	d	language:C
+V_har_coB17_taigu	taiguoperator.h~	99;"	d	language:C	file:
+V_har_coB17_yada	yadaoperator.h	68;"	d	language:C
+V_har_coB17_yada	yadaoperator.h~	68;"	d	language:C	file:
+V_har_coB18	fileoperator.h	116;"	d	language:C
+V_har_coB18	fileoperator.h~	114;"	d	language:C	file:
+V_har_coB18_taigu	taiguoperator.h	101;"	d	language:C
+V_har_coB18_taigu	taiguoperator.h~	100;"	d	language:C	file:
+V_har_coB18_yada	yadaoperator.h	69;"	d	language:C
+V_har_coB18_yada	yadaoperator.h~	69;"	d	language:C	file:
+V_har_coB19	fileoperator.h	117;"	d	language:C
+V_har_coB19	fileoperator.h~	115;"	d	language:C	file:
+V_har_coB19_taigu	taiguoperator.h	102;"	d	language:C
+V_har_coB19_taigu	taiguoperator.h~	101;"	d	language:C	file:
+V_har_coB19_yada	yadaoperator.h	70;"	d	language:C
+V_har_coB19_yada	yadaoperator.h~	70;"	d	language:C	file:
+V_har_coB2	fileoperator.h	100;"	d	language:C
+V_har_coB2	fileoperator.h~	98;"	d	language:C	file:
+V_har_coB20	fileoperator.h	118;"	d	language:C
+V_har_coB20	fileoperator.h~	116;"	d	language:C	file:
+V_har_coB20_taigu	taiguoperator.h	103;"	d	language:C
+V_har_coB20_taigu	taiguoperator.h~	102;"	d	language:C	file:
+V_har_coB20_yada	yadaoperator.h	71;"	d	language:C
+V_har_coB20_yada	yadaoperator.h~	71;"	d	language:C	file:
+V_har_coB21	fileoperator.h	119;"	d	language:C
+V_har_coB21	fileoperator.h~	117;"	d	language:C	file:
+V_har_coB21_taigu	taiguoperator.h	104;"	d	language:C
+V_har_coB21_taigu	taiguoperator.h~	103;"	d	language:C	file:
+V_har_coB21_yada	yadaoperator.h	72;"	d	language:C
+V_har_coB21_yada	yadaoperator.h~	72;"	d	language:C	file:
+V_har_coB22	fileoperator.h	120;"	d	language:C
+V_har_coB22	fileoperator.h~	118;"	d	language:C	file:
+V_har_coB22_taigu	taiguoperator.h	105;"	d	language:C
+V_har_coB22_taigu	taiguoperator.h~	104;"	d	language:C	file:
+V_har_coB23	fileoperator.h	121;"	d	language:C
+V_har_coB23	fileoperator.h~	119;"	d	language:C	file:
+V_har_coB23_taigu	taiguoperator.h	106;"	d	language:C
+V_har_coB23_taigu	taiguoperator.h~	105;"	d	language:C	file:
+V_har_coB24	fileoperator.h	122;"	d	language:C
+V_har_coB24	fileoperator.h~	120;"	d	language:C	file:
+V_har_coB24_taigu	taiguoperator.h	107;"	d	language:C
+V_har_coB24_taigu	taiguoperator.h~	106;"	d	language:C	file:
+V_har_coB25	fileoperator.h	123;"	d	language:C
+V_har_coB25	fileoperator.h~	121;"	d	language:C	file:
+V_har_coB25_taigu	taiguoperator.h	108;"	d	language:C
+V_har_coB25_taigu	taiguoperator.h~	107;"	d	language:C	file:
+V_har_coB26	fileoperator.h	124;"	d	language:C
+V_har_coB26	fileoperator.h~	122;"	d	language:C	file:
+V_har_coB26_taigu	taiguoperator.h	109;"	d	language:C
+V_har_coB26_taigu	taiguoperator.h~	108;"	d	language:C	file:
+V_har_coB27	fileoperator.h	125;"	d	language:C
+V_har_coB27	fileoperator.h~	123;"	d	language:C	file:
+V_har_coB27_taigu	taiguoperator.h	110;"	d	language:C
+V_har_coB27_taigu	taiguoperator.h~	109;"	d	language:C	file:
+V_har_coB28	fileoperator.h	126;"	d	language:C
+V_har_coB28	fileoperator.h~	124;"	d	language:C	file:
+V_har_coB28_taigu	taiguoperator.h	111;"	d	language:C
+V_har_coB28_taigu	taiguoperator.h~	110;"	d	language:C	file:
+V_har_coB29	fileoperator.h	127;"	d	language:C
+V_har_coB29	fileoperator.h~	125;"	d	language:C	file:
+V_har_coB29_taigu	taiguoperator.h	112;"	d	language:C
+V_har_coB29_taigu	taiguoperator.h~	111;"	d	language:C	file:
+V_har_coB2_taigu	taiguoperator.h	85;"	d	language:C
+V_har_coB2_taigu	taiguoperator.h~	84;"	d	language:C	file:
+V_har_coB2_yada	yadaoperator.h	53;"	d	language:C
+V_har_coB2_yada	yadaoperator.h~	53;"	d	language:C	file:
+V_har_coB3	fileoperator.h	101;"	d	language:C
+V_har_coB3	fileoperator.h~	99;"	d	language:C	file:
+V_har_coB30	fileoperator.h	128;"	d	language:C
+V_har_coB30	fileoperator.h~	126;"	d	language:C	file:
+V_har_coB30_taigu	taiguoperator.h	113;"	d	language:C
+V_har_coB30_taigu	taiguoperator.h~	112;"	d	language:C	file:
+V_har_coB31	fileoperator.h	129;"	d	language:C
+V_har_coB31	fileoperator.h~	127;"	d	language:C	file:
+V_har_coB31_taigu	taiguoperator.h	114;"	d	language:C
+V_har_coB31_taigu	taiguoperator.h~	113;"	d	language:C	file:
+V_har_coB32	fileoperator.h	130;"	d	language:C
+V_har_coB32	fileoperator.h~	128;"	d	language:C	file:
+V_har_coB33	fileoperator.h	131;"	d	language:C
+V_har_coB33	fileoperator.h~	129;"	d	language:C	file:
+V_har_coB34	fileoperator.h	132;"	d	language:C
+V_har_coB34	fileoperator.h~	130;"	d	language:C	file:
+V_har_coB35	fileoperator.h	133;"	d	language:C
+V_har_coB35	fileoperator.h~	131;"	d	language:C	file:
+V_har_coB36	fileoperator.h	134;"	d	language:C
+V_har_coB36	fileoperator.h~	132;"	d	language:C	file:
+V_har_coB37	fileoperator.h	135;"	d	language:C
+V_har_coB37	fileoperator.h~	133;"	d	language:C	file:
+V_har_coB38	fileoperator.h	136;"	d	language:C
+V_har_coB38	fileoperator.h~	134;"	d	language:C	file:
+V_har_coB39	fileoperator.h	137;"	d	language:C
+V_har_coB39	fileoperator.h~	135;"	d	language:C	file:
+V_har_coB3_taigu	taiguoperator.h	86;"	d	language:C
+V_har_coB3_taigu	taiguoperator.h~	85;"	d	language:C	file:
+V_har_coB3_yada	yadaoperator.h	54;"	d	language:C
+V_har_coB3_yada	yadaoperator.h~	54;"	d	language:C	file:
+V_har_coB4	fileoperator.h	102;"	d	language:C
+V_har_coB4	fileoperator.h~	100;"	d	language:C	file:
+V_har_coB40	fileoperator.h	138;"	d	language:C
+V_har_coB40	fileoperator.h~	136;"	d	language:C	file:
+V_har_coB41	fileoperator.h	139;"	d	language:C
+V_har_coB41	fileoperator.h~	137;"	d	language:C	file:
+V_har_coB42	fileoperator.h	140;"	d	language:C
+V_har_coB42	fileoperator.h~	138;"	d	language:C	file:
+V_har_coB43	fileoperator.h	141;"	d	language:C
+V_har_coB43	fileoperator.h~	139;"	d	language:C	file:
+V_har_coB44	fileoperator.h	142;"	d	language:C
+V_har_coB44	fileoperator.h~	140;"	d	language:C	file:
+V_har_coB45	fileoperator.h	143;"	d	language:C
+V_har_coB45	fileoperator.h~	141;"	d	language:C	file:
+V_har_coB46	fileoperator.h	144;"	d	language:C
+V_har_coB46	fileoperator.h~	142;"	d	language:C	file:
+V_har_coB47	fileoperator.h	145;"	d	language:C
+V_har_coB47	fileoperator.h~	143;"	d	language:C	file:
+V_har_coB48	fileoperator.h	146;"	d	language:C
+V_har_coB48	fileoperator.h~	144;"	d	language:C	file:
+V_har_coB49	fileoperator.h	147;"	d	language:C
+V_har_coB49	fileoperator.h~	145;"	d	language:C	file:
+V_har_coB4_taigu	taiguoperator.h	87;"	d	language:C
+V_har_coB4_taigu	taiguoperator.h~	86;"	d	language:C	file:
+V_har_coB4_yada	yadaoperator.h	55;"	d	language:C
+V_har_coB4_yada	yadaoperator.h~	55;"	d	language:C	file:
+V_har_coB5	fileoperator.h	103;"	d	language:C
+V_har_coB5	fileoperator.h~	101;"	d	language:C	file:
+V_har_coB50	fileoperator.h	148;"	d	language:C
+V_har_coB50	fileoperator.h~	146;"	d	language:C	file:
+V_har_coB5_taigu	taiguoperator.h	88;"	d	language:C
+V_har_coB5_taigu	taiguoperator.h~	87;"	d	language:C	file:
+V_har_coB5_yada	yadaoperator.h	56;"	d	language:C
+V_har_coB5_yada	yadaoperator.h~	56;"	d	language:C	file:
+V_har_coB6	fileoperator.h	104;"	d	language:C
+V_har_coB6	fileoperator.h~	102;"	d	language:C	file:
+V_har_coB6_taigu	taiguoperator.h	89;"	d	language:C
+V_har_coB6_taigu	taiguoperator.h~	88;"	d	language:C	file:
+V_har_coB6_yada	yadaoperator.h	57;"	d	language:C
+V_har_coB6_yada	yadaoperator.h~	57;"	d	language:C	file:
+V_har_coB7	fileoperator.h	105;"	d	language:C
+V_har_coB7	fileoperator.h~	103;"	d	language:C	file:
+V_har_coB7_taigu	taiguoperator.h	90;"	d	language:C
+V_har_coB7_taigu	taiguoperator.h~	89;"	d	language:C	file:
+V_har_coB7_yada	yadaoperator.h	58;"	d	language:C
+V_har_coB7_yada	yadaoperator.h~	58;"	d	language:C	file:
+V_har_coB8	fileoperator.h	106;"	d	language:C
+V_har_coB8	fileoperator.h~	104;"	d	language:C	file:
+V_har_coB8_taigu	taiguoperator.h	91;"	d	language:C
+V_har_coB8_taigu	taiguoperator.h~	90;"	d	language:C	file:
+V_har_coB8_yada	yadaoperator.h	59;"	d	language:C
+V_har_coB8_yada	yadaoperator.h~	59;"	d	language:C	file:
+V_har_coB9	fileoperator.h	107;"	d	language:C
+V_har_coB9	fileoperator.h~	105;"	d	language:C	file:
+V_har_coB9_taigu	taiguoperator.h	92;"	d	language:C
+V_har_coB9_taigu	taiguoperator.h~	91;"	d	language:C	file:
+V_har_coB9_yada	yadaoperator.h	60;"	d	language:C
+V_har_coB9_yada	yadaoperator.h~	60;"	d	language:C	file:
+V_har_coC10	fileoperator.h	157;"	d	language:C
+V_har_coC10	fileoperator.h~	155;"	d	language:C	file:
+V_har_coC10_taigu	taiguoperator.h	124;"	d	language:C
+V_har_coC10_taigu	taiguoperator.h~	123;"	d	language:C	file:
+V_har_coC10_yada	yadaoperator.h	82;"	d	language:C
+V_har_coC10_yada	yadaoperator.h~	82;"	d	language:C	file:
+V_har_coC11	fileoperator.h	158;"	d	language:C
+V_har_coC11	fileoperator.h~	156;"	d	language:C	file:
+V_har_coC11_taigu	taiguoperator.h	125;"	d	language:C
+V_har_coC11_taigu	taiguoperator.h~	124;"	d	language:C	file:
+V_har_coC11_yada	yadaoperator.h	83;"	d	language:C
+V_har_coC11_yada	yadaoperator.h~	83;"	d	language:C	file:
+V_har_coC12	fileoperator.h	159;"	d	language:C
+V_har_coC12	fileoperator.h~	157;"	d	language:C	file:
+V_har_coC12_taigu	taiguoperator.h	126;"	d	language:C
+V_har_coC12_taigu	taiguoperator.h~	125;"	d	language:C	file:
+V_har_coC12_yada	yadaoperator.h	84;"	d	language:C
+V_har_coC12_yada	yadaoperator.h~	84;"	d	language:C	file:
+V_har_coC13	fileoperator.h	160;"	d	language:C
+V_har_coC13	fileoperator.h~	158;"	d	language:C	file:
+V_har_coC13_taigu	taiguoperator.h	127;"	d	language:C
+V_har_coC13_taigu	taiguoperator.h~	126;"	d	language:C	file:
+V_har_coC13_yada	yadaoperator.h	85;"	d	language:C
+V_har_coC13_yada	yadaoperator.h~	85;"	d	language:C	file:
+V_har_coC14	fileoperator.h	161;"	d	language:C
+V_har_coC14	fileoperator.h~	159;"	d	language:C	file:
+V_har_coC14_taigu	taiguoperator.h	128;"	d	language:C
+V_har_coC14_taigu	taiguoperator.h~	127;"	d	language:C	file:
+V_har_coC14_yada	yadaoperator.h	86;"	d	language:C
+V_har_coC14_yada	yadaoperator.h~	86;"	d	language:C	file:
+V_har_coC15	fileoperator.h	162;"	d	language:C
+V_har_coC15	fileoperator.h~	160;"	d	language:C	file:
+V_har_coC15_taigu	taiguoperator.h	129;"	d	language:C
+V_har_coC15_taigu	taiguoperator.h~	128;"	d	language:C	file:
+V_har_coC15_yada	yadaoperator.h	87;"	d	language:C
+V_har_coC15_yada	yadaoperator.h~	87;"	d	language:C	file:
+V_har_coC16	fileoperator.h	163;"	d	language:C
+V_har_coC16	fileoperator.h~	161;"	d	language:C	file:
+V_har_coC16_taigu	taiguoperator.h	130;"	d	language:C
+V_har_coC16_taigu	taiguoperator.h~	129;"	d	language:C	file:
+V_har_coC16_yada	yadaoperator.h	88;"	d	language:C
+V_har_coC16_yada	yadaoperator.h~	88;"	d	language:C	file:
+V_har_coC17	fileoperator.h	164;"	d	language:C
+V_har_coC17	fileoperator.h~	162;"	d	language:C	file:
+V_har_coC17_taigu	taiguoperator.h	131;"	d	language:C
+V_har_coC17_taigu	taiguoperator.h~	130;"	d	language:C	file:
+V_har_coC17_yada	yadaoperator.h	89;"	d	language:C
+V_har_coC17_yada	yadaoperator.h~	89;"	d	language:C	file:
+V_har_coC18	fileoperator.h	165;"	d	language:C
+V_har_coC18	fileoperator.h~	163;"	d	language:C	file:
+V_har_coC18_taigu	taiguoperator.h	132;"	d	language:C
+V_har_coC18_taigu	taiguoperator.h~	131;"	d	language:C	file:
+V_har_coC18_yada	yadaoperator.h	90;"	d	language:C
+V_har_coC18_yada	yadaoperator.h~	90;"	d	language:C	file:
+V_har_coC19	fileoperator.h	166;"	d	language:C
+V_har_coC19	fileoperator.h~	164;"	d	language:C	file:
+V_har_coC19_taigu	taiguoperator.h	133;"	d	language:C
+V_har_coC19_taigu	taiguoperator.h~	132;"	d	language:C	file:
+V_har_coC19_yada	yadaoperator.h	91;"	d	language:C
+V_har_coC19_yada	yadaoperator.h~	91;"	d	language:C	file:
+V_har_coC2	fileoperator.h	149;"	d	language:C
+V_har_coC2	fileoperator.h~	147;"	d	language:C	file:
+V_har_coC20	fileoperator.h	167;"	d	language:C
+V_har_coC20	fileoperator.h~	165;"	d	language:C	file:
+V_har_coC20_taigu	taiguoperator.h	134;"	d	language:C
+V_har_coC20_taigu	taiguoperator.h~	133;"	d	language:C	file:
+V_har_coC20_yada	yadaoperator.h	92;"	d	language:C
+V_har_coC20_yada	yadaoperator.h~	92;"	d	language:C	file:
+V_har_coC21	fileoperator.h	168;"	d	language:C
+V_har_coC21	fileoperator.h~	166;"	d	language:C	file:
+V_har_coC21_taigu	taiguoperator.h	135;"	d	language:C
+V_har_coC21_taigu	taiguoperator.h~	134;"	d	language:C	file:
+V_har_coC21_yada	yadaoperator.h	93;"	d	language:C
+V_har_coC21_yada	yadaoperator.h~	93;"	d	language:C	file:
+V_har_coC22	fileoperator.h	169;"	d	language:C
+V_har_coC22	fileoperator.h~	167;"	d	language:C	file:
+V_har_coC22_taigu	taiguoperator.h	136;"	d	language:C
+V_har_coC22_taigu	taiguoperator.h~	135;"	d	language:C	file:
+V_har_coC23	fileoperator.h	170;"	d	language:C
+V_har_coC23	fileoperator.h~	168;"	d	language:C	file:
+V_har_coC23_taigu	taiguoperator.h	137;"	d	language:C
+V_har_coC23_taigu	taiguoperator.h~	136;"	d	language:C	file:
+V_har_coC24	fileoperator.h	171;"	d	language:C
+V_har_coC24	fileoperator.h~	169;"	d	language:C	file:
+V_har_coC24_taigu	taiguoperator.h	138;"	d	language:C
+V_har_coC24_taigu	taiguoperator.h~	137;"	d	language:C	file:
+V_har_coC25	fileoperator.h	172;"	d	language:C
+V_har_coC25	fileoperator.h~	170;"	d	language:C	file:
+V_har_coC25_taigu	taiguoperator.h	139;"	d	language:C
+V_har_coC25_taigu	taiguoperator.h~	138;"	d	language:C	file:
+V_har_coC26	fileoperator.h	173;"	d	language:C
+V_har_coC26	fileoperator.h~	171;"	d	language:C	file:
+V_har_coC26_taigu	taiguoperator.h	140;"	d	language:C
+V_har_coC26_taigu	taiguoperator.h~	139;"	d	language:C	file:
+V_har_coC27	fileoperator.h	174;"	d	language:C
+V_har_coC27	fileoperator.h~	172;"	d	language:C	file:
+V_har_coC27_taigu	taiguoperator.h	141;"	d	language:C
+V_har_coC27_taigu	taiguoperator.h~	140;"	d	language:C	file:
+V_har_coC28	fileoperator.h	175;"	d	language:C
+V_har_coC28	fileoperator.h~	173;"	d	language:C	file:
+V_har_coC28_taigu	taiguoperator.h	142;"	d	language:C
+V_har_coC28_taigu	taiguoperator.h~	141;"	d	language:C	file:
+V_har_coC29	fileoperator.h	176;"	d	language:C
+V_har_coC29	fileoperator.h~	174;"	d	language:C	file:
+V_har_coC29_taigu	taiguoperator.h	143;"	d	language:C
+V_har_coC29_taigu	taiguoperator.h~	142;"	d	language:C	file:
+V_har_coC2_taigu	taiguoperator.h	116;"	d	language:C
+V_har_coC2_taigu	taiguoperator.h~	115;"	d	language:C	file:
+V_har_coC2_yada	yadaoperator.h	74;"	d	language:C
+V_har_coC2_yada	yadaoperator.h~	74;"	d	language:C	file:
+V_har_coC3	fileoperator.h	150;"	d	language:C
+V_har_coC3	fileoperator.h~	148;"	d	language:C	file:
+V_har_coC30	fileoperator.h	177;"	d	language:C
+V_har_coC30	fileoperator.h~	175;"	d	language:C	file:
+V_har_coC30_taigu	taiguoperator.h	144;"	d	language:C
+V_har_coC30_taigu	taiguoperator.h~	143;"	d	language:C	file:
+V_har_coC31	fileoperator.h	178;"	d	language:C
+V_har_coC31	fileoperator.h~	176;"	d	language:C	file:
+V_har_coC31_taigu	taiguoperator.h	145;"	d	language:C
+V_har_coC31_taigu	taiguoperator.h~	144;"	d	language:C	file:
+V_har_coC32	fileoperator.h	179;"	d	language:C
+V_har_coC32	fileoperator.h~	177;"	d	language:C	file:
+V_har_coC33	fileoperator.h	180;"	d	language:C
+V_har_coC33	fileoperator.h~	178;"	d	language:C	file:
+V_har_coC34	fileoperator.h	181;"	d	language:C
+V_har_coC34	fileoperator.h~	179;"	d	language:C	file:
+V_har_coC35	fileoperator.h	182;"	d	language:C
+V_har_coC35	fileoperator.h~	180;"	d	language:C	file:
+V_har_coC36	fileoperator.h	183;"	d	language:C
+V_har_coC36	fileoperator.h~	181;"	d	language:C	file:
+V_har_coC37	fileoperator.h	184;"	d	language:C
+V_har_coC37	fileoperator.h~	182;"	d	language:C	file:
+V_har_coC38	fileoperator.h	185;"	d	language:C
+V_har_coC38	fileoperator.h~	183;"	d	language:C	file:
+V_har_coC39	fileoperator.h	186;"	d	language:C
+V_har_coC39	fileoperator.h~	184;"	d	language:C	file:
+V_har_coC3_taigu	taiguoperator.h	117;"	d	language:C
+V_har_coC3_taigu	taiguoperator.h~	116;"	d	language:C	file:
+V_har_coC3_yada	yadaoperator.h	75;"	d	language:C
+V_har_coC3_yada	yadaoperator.h~	75;"	d	language:C	file:
+V_har_coC4	fileoperator.h	151;"	d	language:C
+V_har_coC4	fileoperator.h~	149;"	d	language:C	file:
+V_har_coC40	fileoperator.h	187;"	d	language:C
+V_har_coC40	fileoperator.h~	185;"	d	language:C	file:
+V_har_coC41	fileoperator.h	188;"	d	language:C
+V_har_coC41	fileoperator.h~	186;"	d	language:C	file:
+V_har_coC42	fileoperator.h	189;"	d	language:C
+V_har_coC42	fileoperator.h~	187;"	d	language:C	file:
+V_har_coC43	fileoperator.h	190;"	d	language:C
+V_har_coC43	fileoperator.h~	188;"	d	language:C	file:
+V_har_coC44	fileoperator.h	191;"	d	language:C
+V_har_coC44	fileoperator.h~	189;"	d	language:C	file:
+V_har_coC45	fileoperator.h	192;"	d	language:C
+V_har_coC45	fileoperator.h~	190;"	d	language:C	file:
+V_har_coC46	fileoperator.h	193;"	d	language:C
+V_har_coC46	fileoperator.h~	191;"	d	language:C	file:
+V_har_coC47	fileoperator.h	194;"	d	language:C
+V_har_coC47	fileoperator.h~	192;"	d	language:C	file:
+V_har_coC48	fileoperator.h	195;"	d	language:C
+V_har_coC48	fileoperator.h~	193;"	d	language:C	file:
+V_har_coC49	fileoperator.h	196;"	d	language:C
+V_har_coC49	fileoperator.h~	194;"	d	language:C	file:
+V_har_coC4_taigu	taiguoperator.h	118;"	d	language:C
+V_har_coC4_taigu	taiguoperator.h~	117;"	d	language:C	file:
+V_har_coC4_yada	yadaoperator.h	76;"	d	language:C
+V_har_coC4_yada	yadaoperator.h~	76;"	d	language:C	file:
+V_har_coC5	fileoperator.h	152;"	d	language:C
+V_har_coC5	fileoperator.h~	150;"	d	language:C	file:
+V_har_coC50	fileoperator.h	197;"	d	language:C
+V_har_coC50	fileoperator.h~	195;"	d	language:C	file:
+V_har_coC5_taigu	taiguoperator.h	119;"	d	language:C
+V_har_coC5_taigu	taiguoperator.h~	118;"	d	language:C	file:
+V_har_coC5_yada	yadaoperator.h	77;"	d	language:C
+V_har_coC5_yada	yadaoperator.h~	77;"	d	language:C	file:
+V_har_coC6	fileoperator.h	153;"	d	language:C
+V_har_coC6	fileoperator.h~	151;"	d	language:C	file:
+V_har_coC6_taigu	taiguoperator.h	120;"	d	language:C
+V_har_coC6_taigu	taiguoperator.h~	119;"	d	language:C	file:
+V_har_coC6_yada	yadaoperator.h	78;"	d	language:C
+V_har_coC6_yada	yadaoperator.h~	78;"	d	language:C	file:
+V_har_coC7	fileoperator.h	154;"	d	language:C
+V_har_coC7	fileoperator.h~	152;"	d	language:C	file:
+V_har_coC7_taigu	taiguoperator.h	121;"	d	language:C
+V_har_coC7_taigu	taiguoperator.h~	120;"	d	language:C	file:
+V_har_coC7_yada	yadaoperator.h	79;"	d	language:C
+V_har_coC7_yada	yadaoperator.h~	79;"	d	language:C	file:
+V_har_coC8	fileoperator.h	155;"	d	language:C
+V_har_coC8	fileoperator.h~	153;"	d	language:C	file:
+V_har_coC8_taigu	taiguoperator.h	122;"	d	language:C
+V_har_coC8_taigu	taiguoperator.h~	121;"	d	language:C	file:
+V_har_coC8_yada	yadaoperator.h	80;"	d	language:C
+V_har_coC8_yada	yadaoperator.h~	80;"	d	language:C	file:
+V_har_coC9	fileoperator.h	156;"	d	language:C
+V_har_coC9	fileoperator.h~	154;"	d	language:C	file:
+V_har_coC9_taigu	taiguoperator.h	123;"	d	language:C
+V_har_coC9_taigu	taiguoperator.h~	122;"	d	language:C	file:
+V_har_coC9_yada	yadaoperator.h	81;"	d	language:C
+V_har_coC9_yada	yadaoperator.h~	81;"	d	language:C	file:
+V_imdegree	fileoperator.h	367;"	d	language:C
+V_imdegree	fileoperator.h~	365;"	d	language:C	file:
+V_imdegree_taigu	taiguoperator.h	33;"	d	language:C
+V_imdegree_taigu	taiguoperator.h~	32;"	d	language:C	file:
+V_wav_disA	fileoperator.h	345;"	d	language:C
+V_wav_disA	fileoperator.h~	343;"	d	language:C	file:
+V_wav_disA_taigu	taiguoperator.h	27;"	d	language:C
+V_wav_disA_taigu	taiguoperator.h~	26;"	d	language:C	file:
+V_wav_disB	fileoperator.h	346;"	d	language:C
+V_wav_disB	fileoperator.h~	344;"	d	language:C	file:
+V_wav_disB_taigu	taiguoperator.h	28;"	d	language:C
+V_wav_disB_taigu	taiguoperator.h~	27;"	d	language:C	file:
+V_wav_disC	fileoperator.h	347;"	d	language:C
+V_wav_disC	fileoperator.h~	345;"	d	language:C	file:
+V_wav_disC_taigu	taiguoperator.h	29;"	d	language:C
+V_wav_disC_taigu	taiguoperator.h~	28;"	d	language:C	file:
+WDT	wdt.c	7;"	d	language:C	file:
+WDT	wdt.c~	7;"	d	language:C	file:
+WDT	wdt.h	7;"	d	language:C
+WDT	wdt.h~	7;"	d	language:C	file:
+YADAOPERATOR_H	yadaoperator.h	2;"	d	language:C
+YADAOPERATOR_H	yadaoperator.h~	2;"	d	language:C	file:
+_	11	/^/;"	v	language:C
+asciitohex	bytesfactory.c	/^int asciitohex(int ascii)$/;"	f	language:C	signature:(int ascii)
+asciitohex	bytesfactory.c~	/^int asciitohex(int ascii)$/;"	f	language:C	signature:(int ascii)
+athdi	tags	/^athdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+athdi	tags	/^bthdi	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+athdi	tags	/^cthdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+athdi	taiguoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+athdi	taiguoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+athdi	yadaoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+athdi	yadaoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+athdu	taiguoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+athdu	taiguoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+athdu	yadaoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+athdu	yadaoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bflag	taiguoperator.c	/^    int    bflag; $/;"	l	language:C
+bflag	taiguoperator.c~	/^    int    bflag; $/;"	l	language:C
+bthdi	tags	/^athdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+bthdi	tags	/^bthdi	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+bthdi	tags	/^cthdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+bthdi	taiguoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bthdi	taiguoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bthdi	yadaoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bthdi	yadaoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bthdu	tags	/^athdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+bthdu	tags	/^bthdi	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+bthdu	tags	/^cthdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+bthdu	taiguoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bthdu	taiguoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bthdu	yadaoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+bthdu	yadaoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+buf	taiguoperator.c	/^    double buf;$/;"	l	language:C
+buf	taiguoperator.c~	/^    double buf;$/;"	l	language:C
+buf	yadaoperator.c	/^    double buf;$/;"	l	language:C
+buf	yadaoperator.c~	/^    double buf;$/;"	l	language:C
+bundbit	chanel.h	/^    int  bundbit;$/;"	m	language:C	struct:chanel_info	access:public
+bundbit	chanel.h~	/^    int  bundbit;$/;"	m	language:C	struct:chanel_info	file:	access:public
+bundbit	main.c	/^    int  bundbit,stopbit;$/;"	l	language:C
+bundbit	main.c~	/^    int  bundbit,stopbit;$/;"	l	language:C
+bytebuf	bytesfactory.c	/^    char bytebuf[2];$/;"	l	language:C
+bytebuf	bytesfactory.c~	/^    char bytebuf[2];$/;"	l	language:C
+bytesfactory_CRC16	bytesfactory.h~	/^extern int bytesfactory_CRC16(char intbuf[], int num);$/;"	p	language:C	file:	signature:(char intbuf[], int num)
+bytesfactory_addcrc16	bytesfactory.c	/^int bytesfactory_addcrc16(char bytebuf[],int offset)$/;"	f	language:C	signature:(char bytebuf[],int offset)
+bytesfactory_addcrc16	bytesfactory.c~	/^int bytesfactory_addcrc16(char bytebuf[],int offset)$/;"	f	language:C	signature:(char bytebuf[],int offset)
+bytesfactory_addcrc16	bytesfactory.h	/^extern int bytesfactory_addcrc16(char bytebuf[],int offset);$/;"	p	language:C	signature:(char bytebuf[],int offset)
+bytesfactory_addcrc16	bytesfactory.h~	/^extern int bytesfactory_addcrc16(char bytebuf[],int offset);$/;"	p	language:C	file:	signature:(char bytebuf[],int offset)
+bytesfactory_addcrc16	tags	/^bytesfactory_addcrc16	bytesfactory.h~	\/^extern int bytesfactory_addcrc16(char bytebuf[],int offset);$\/;"	p	language:C	file:	signature:(char bytebuf[],int offset)$/;"	p	language:C	file:	signature:(char bytebuf[],int offset)
+bytesfactory_checkcrc16	bytesfactory.c	/^int bytesfactory_checkcrc16(char bytebuf[],int cnt)$/;"	f	language:C	signature:(char bytebuf[],int cnt)
+bytesfactory_checkcrc16	bytesfactory.c~	/^int bytesfactory_checkcrc16(char bytebuf[],int cnt)$/;"	f	language:C	signature:(char bytebuf[],int cnt)
+bytesfactory_checkcrc16	bytesfactory.h	/^extern int bytesfactory_checkcrc16(char bytebuf[],int cnt);$/;"	p	language:C	signature:(char bytebuf[],int cnt)
+bytesfactory_getsendbytes	bytesfactory.c	/^int bytesfactory_getsendbytes(char inbuf[] ,char intbuf[])$/;"	f	language:C	signature:(char inbuf[] ,char intbuf[])
+bytesfactory_getsendbytes	bytesfactory.c~	/^int bytesfactory_getsendbytes(char inbuf[] ,char intbuf[])$/;"	f	language:C	signature:(char inbuf[] ,char intbuf[])
+bytesfactory_getsendbytes	bytesfactory.h	/^extern int bytesfactory_getsendbytes(char inbuf[] ,char intbuf[]);$/;"	p	language:C	signature:(char inbuf[] ,char intbuf[])
+bytesfactory_getsendbytes	bytesfactory.h~	/^extern int bytesfactory_getsendbytes(char inbuf[] ,char intbuf[]);$/;"	p	language:C	file:	signature:(char inbuf[] ,char intbuf[])
+bytesfactory_getsendbytes	tags	/^bytesfactory_getsendbytes	bytesfactory.h~	\/^extern int bytesfactory_getsendbytes(char inbuf[] ,char intbuf[]);$\/;"	p	language:C	file:	signature:(char inbuf[] ,char intbuf[])$/;"	p	language:C	file:	signature:(char inbuf[] ,char intbuf[])
+cfa	tags	/^cfb	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfa	tags	/^vfa	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfa	tags	/^vfc	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfa	taiguoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+cfa	taiguoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+cfa	yadaoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+cfa	yadaoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+cfb	tags	/^cfb	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfb	tags	/^vfa	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfb	tags	/^vfc	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfb	taiguoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+cfb	taiguoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+cfb	yadaoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+cfb	yadaoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+cfc	tags	/^cfb	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfc	tags	/^vfa	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfc	tags	/^vfc	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+cfc	taiguoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+cfc	taiguoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+cfc	yadaoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+cfc	yadaoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+ch	main.c	/^    struct chanel_info *ch = (struct chanel_info *)arg;$/;"	l	language:C
+ch	main.c	/^struct chanel_info ch[8];   \/\/chanel info$/;"	v	language:C	typeref:struct:chanel_info
+ch	main.c~	/^    struct chanel_info *ch = (struct chanel_info *)arg;$/;"	l	language:C
+ch	main.c~	/^struct chanel_info ch[8];   \/\/chanel info$/;"	v	language:C	typeref:struct:chanel_info
+chCRCHTalbe	bytesfactory.c	/^const char chCRCHTalbe[] =                                 \/\/ CRC 高位字节值表$/;"	v	language:C
+chCRCHTalbe	bytesfactory.c~	/^const char chCRCHTalbe[] =                                 \/\/ CRC 高位字节值表$/;"	v	language:C
+chCRCHi	bytesfactory.c	/^    char chCRCHi = 0xFF;    \/\/ 高CRC字节初始$/;"	l	language:C
+chCRCHi	bytesfactory.c~	/^    char chCRCHi = 0xFF;    \/\/ 高CRC字节初始$/;"	l	language:C
+chCRCLTalbe	bytesfactory.c	/^const char chCRCLTalbe[] =                                 \/\/ CRC 低位字节值表$/;"	v	language:C
+chCRCLTalbe	bytesfactory.c~	/^const char chCRCLTalbe[] =                                 \/\/ CRC 低位字节值表$/;"	v	language:C
+chCRCLo	bytesfactory.c	/^    char chCRCLo = 0xFF;    \/\/ 低CRC字节初始化$/;"	l	language:C
+chCRCLo	bytesfactory.c~	/^    char chCRCLo = 0xFF;    \/\/ 低CRC字节初始化$/;"	l	language:C
+ch_thread	main.c	/^pthread_t ch_thread[8];     \/\/get data thread$/;"	v	language:C
+ch_thread	main.c~	/^pthread_t ch_thread[8];     \/\/get data thread$/;"	v	language:C
+chanel_collectdata	chanel.c	/^int chanel_collectdata(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+chanel_collectdata	chanel.c~	/^int chanel_collectdata(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+chanel_collectdata	chanel.h	/^extern int chanel_collectdata(struct chanel_info *ch);$/;"	p	language:C	signature:(struct chanel_info *ch)
+chanel_collectdata	chanel.h~	/^extern int chanel_collectdata(struct chanel_info *ch);$/;"	p	language:C	file:	signature:(struct chanel_info *ch)
+chanel_getdatalength	chanel.c	/^int chanel_getdatalength(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+chanel_getdatalength	chanel.c~	/^int chanel_getdatalength(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+chanel_getdatalength	chanel.h	/^extern int chanel_getdatalength(struct chanel_info *ch);$/;"	p	language:C	signature:(struct chanel_info *ch)
+chanel_getdatalength	chanel.h~	/^extern int chanel_getdatalength(struct chanel_info *ch);$/;"	p	language:C	file:	signature:(struct chanel_info *ch)
+chanel_getsingleelecdata	chanel.c	/^int chanel_getsingleelecdata(struct chanel_info *ch,int index,char elecdatas[])   \/\/get single elec datas$/;"	f	language:C	signature:(struct chanel_info *ch,int index,char elecdatas[])
+chanel_getsingleelecdata	chanel.c~	/^int chanel_getsingleelecdata(struct chanel_info *ch,int index,char elecdatas[])   \/\/get single elec datas$/;"	f	language:C	signature:(struct chanel_info *ch,int index,char elecdatas[])
+chanel_getsingleelecdata	chanel.h	/^extern int chanel_getsingleelecdata(struct chanel_info *ch,int index,char elecdatas[]);$/;"	p	language:C	signature:(struct chanel_info *ch,int index,char elecdatas[])
+chanel_getsingleelecdata	chanel.h~	/^extern int chanel_getsingleelecdata(struct chanel_info *ch,int index,char elecdatas[]);$/;"	p	language:C	file:	signature:(struct chanel_info *ch,int index,char elecdatas[])
+chanel_info	chanel.h	/^struct chanel_info{$/;"	s	language:C
+chanel_info	chanel.h~	/^struct chanel_info{$/;"	s	language:C	file:
+chanel_info::bundbit	chanel.h	/^    int  bundbit;$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::bundbit	chanel.h~	/^    int  bundbit;$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::checktype	chanel.h	/^    char checktype;   \/\/ji ou jiao yan$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::checktype	chanel.h~	/^    char checktype;   \/\/ji ou jiao yan$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::datalen	chanel.h	/^    int  datalen;     $/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::datalen	chanel.h~	/^    int  datalen;     $/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::elecdatas	chanel.h	/^    char elecdatas[8192];$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::elecdatas	chanel.h~	/^    char elecdatas[8192];$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::elecnum	chanel.h	/^    int  elecnum;     \/\/the number of elecs$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::elecnum	chanel.h~	/^    int  elecnum;     \/\/the number of elecs$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::fd	chanel.h	/^    int  fd;          \/\/the serial file number of this chanel$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::fd	chanel.h~	/^    int  fd;          \/\/the serial file number of this chanel$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::ids	chanel.h	/^    char ids[32];     \/\/the elec modbus address$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::ids	chanel.h~	/^    char ids[32];     \/\/the elec modbus address$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::offset	chanel.h	/^    int  offset;      \/\/when data collector is running , elecdatas offset $/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::offset	chanel.h~	/^    int  offset;$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::portnum	chanel.h	/^    int  portnum;$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::portnum	chanel.h~	/^    int  portnum;$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::stopbit	chanel.h	/^    int  stopbit;$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::stopbit	chanel.h~	/^    int  stopbit;$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_info::type	chanel.h	/^    int  type;        \/\/the type of elec : 1,yada;2,weisheng$/;"	m	language:C	struct:chanel_info	access:public
+chanel_info::type	chanel.h~	/^    int  type;        \/\/the type of elec : 1,yada;2,weisheng$/;"	m	language:C	struct:chanel_info	file:	access:public
+chanel_init	chanel.h	/^extern int chanel_init(struct chanel_info *ch);$/;"	p	language:C	signature:(struct chanel_info *ch)
+chanel_init	chanel.h~	/^extern int chanel_init(struct chanel_info *ch);$/;"	p	language:C	file:	signature:(struct chanel_info *ch)
+chartoi	fileoperator.c	/^int chartoi(char buf[],int offset, int len)$/;"	f	language:C	signature:(char buf[],int offset, int len)
+chartoi	fileoperator.c~	/^int chartoi(char buf[],int offset, int len)$/;"	f	language:C	signature:(char buf[],int offset, int len)
+chartoi	fileoperator.h	/^extern int chartoi(char buf[],int offset, int len);$/;"	p	language:C	signature:(char buf[],int offset, int len)
+chartoi	fileoperator.h~	/^extern int chartoi(char buf[],int offset, int len);$/;"	p	language:C	file:	signature:(char buf[],int offset, int len)
+checktype	chanel.h	/^    char checktype;   \/\/ji ou jiao yan$/;"	m	language:C	struct:chanel_info	access:public
+checktype	chanel.h~	/^    char checktype;   \/\/ji ou jiao yan$/;"	m	language:C	struct:chanel_info	file:	access:public
+checktype	main.c	/^    char checktype;$/;"	l	language:C
+checktype	main.c~	/^    char checktype;$/;"	l	language:C
+chthread_f	main.c	/^void *chthread_f(void *arg)$/;"	f	language:C	signature:(void *arg)
+chthread_f	main.c~	/^void *chthread_f(void *arg)$/;"	f	language:C	signature:(void *arg)
+cnt	bytesfactory.c	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+cnt	bytesfactory.c~	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+crc	bytesfactory.c	/^    int crc,rev;$/;"	l	language:C
+crc	bytesfactory.c	/^    int crc;$/;"	l	language:C
+crc	bytesfactory.c	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+crc	bytesfactory.c~	/^    int crc,rev;$/;"	l	language:C
+crc	bytesfactory.c~	/^    int crc;$/;"	l	language:C
+crc	bytesfactory.c~	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+cthdi	tags	/^athdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+cthdi	tags	/^bthdi	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+cthdi	tags	/^cthdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+cthdi	taiguoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+cthdi	taiguoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+cthdi	yadaoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+cthdi	yadaoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+cthdu	tags	/^athdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+cthdu	tags	/^bthdi	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+cthdu	tags	/^cthdu	yadaoperator.c~	\/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$\/;"	l	language:C$/;"	v	language:C
+cthdu	taiguoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+cthdu	taiguoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+cthdu	yadaoperator.c	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+cthdu	yadaoperator.c~	/^    double athdu,bthdu,cthdu,athdi,bthdi,cthdi;$/;"	l	language:C
+databuf	fileoperator.c	/^    char   databuf[2];$/;"	l	language:C
+databuf	fileoperator.c~	/^    char   databuf[2];$/;"	l	language:C
+databuf	main.c	/^    char databuf[800];$/;"	l	language:C
+databuf	main.c~	/^    char databuf[800];$/;"	l	language:C
+dataend	fileoperator.h	369;"	d	language:C
+dataend	fileoperator.h~	367;"	d	language:C	file:
+datalen	chanel.c	/^    int datalen = 0;$/;"	l	language:C
+datalen	chanel.c	/^    int i,j,datalen;$/;"	l	language:C
+datalen	chanel.c~	/^    int datalen = 0;$/;"	l	language:C
+datalen	chanel.c~	/^    int i,j,datalen;$/;"	l	language:C
+datalen	chanel.h	/^    int  datalen;     $/;"	m	language:C	struct:chanel_info	access:public
+datalen	chanel.h~	/^    int  datalen;     $/;"	m	language:C	struct:chanel_info	file:	access:public
+day	fileoperator.c	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+day	fileoperator.c~	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+dec	fileoperator.c	/^    double dec;$/;"	l	language:C
+dec	fileoperator.c~	/^    double dec;$/;"	l	language:C
+dev	serial.c	/^    char *dev[] = {"\/dev\/ttyS3","\/dev\/ttyS2","\/dev\/ttyS1","\/dev\/ttyS0","\/dev\/ttyO5","\/dev\/ttyO4","\/dev\/ttyO3","\/dev\/ttyO1"};   $/;"	l	language:C
+dev	serial.c~	/^    char *dev[] = {"\/dev\/ttyS0","\/dev\/ttyS1","\/dev\/ttyS2","\/dev\/ttyS3","\/dev\/ttyO5","\/dev\/ttyO4","\/dev\/ttyO3","\/dev\/ttyO1"};     $/;"	l	language:C
+dvalue	fileoperator.c	/^    double dvalue;$/;"	l	language:C
+dvalue	fileoperator.c~	/^    double dvalue;$/;"	l	language:C
+dvalue	taiguoperator.c	/^    double dvalue = 0;$/;"	l	language:C
+dvalue	taiguoperator.c~	/^    double dvalue = 0;$/;"	l	language:C
+dvalue	yadaoperator.c	/^    double dvalue = 0;$/;"	l	language:C
+dvalue	yadaoperator.c~	/^    double dvalue = 0;$/;"	l	language:C
+elecdatas	chanel.h	/^    char elecdatas[8192];$/;"	m	language:C	struct:chanel_info	access:public
+elecdatas	chanel.h~	/^    char elecdatas[8192];$/;"	m	language:C	struct:chanel_info	file:	access:public
+elecnum	chanel.h	/^    int  elecnum;     \/\/the number of elecs$/;"	m	language:C	struct:chanel_info	access:public
+elecnum	chanel.h~	/^    int  elecnum;     \/\/the number of elecs$/;"	m	language:C	struct:chanel_info	file:	access:public
+fd	chanel.h	/^    int  fd;          \/\/the serial file number of this chanel$/;"	m	language:C	struct:chanel_info	access:public
+fd	chanel.h~	/^    int  fd;          \/\/the serial file number of this chanel$/;"	m	language:C	struct:chanel_info	file:	access:public
+fd	fileoperator.c	/^    int    fd;$/;"	l	language:C
+fd	fileoperator.c~	/^    int    fd;$/;"	l	language:C
+fd	serial.c	/^    int fd,i;$/;"	l	language:C
+fd	serial.c	/^    int fd;$/;"	l	language:C
+fd	serial.c~	/^    int fd,i;$/;"	l	language:C
+fd	serial.c~	/^    int fd;$/;"	l	language:C
+fgetsavespan	fileoperator.c	/^int fgetsavespan()$/;"	f	language:C
+fgetsavespan	fileoperator.c~	/^int fgetsavespan()$/;"	f	language:C
+fgetsavespan	fileoperator.h	/^extern int fgetsavespan();$/;"	p	language:C
+fgetsavespan	fileoperator.h~	/^extern int fgetsavespan();$/;"	p	language:C	file:
+fgetsetdata	fileoperator.c	/^int fgetsetdata(char databuf[])$/;"	f	language:C	signature:(char databuf[])
+fgetsetdata	fileoperator.c~	/^int fgetsetdata(char databuf[])$/;"	f	language:C	signature:(char databuf[])
+fgetsetdata	fileoperator.h	/^extern int fgetsetdata(char databuf[]);$/;"	p	language:C	signature:(char databuf[])
+fgetsetdata	fileoperator.h~	/^extern int fgetsetdata(char databuf[]);$/;"	p	language:C	file:	signature:(char databuf[])
+fgetsetdata	tags	/^fgetsetdata	fileoperator.h	\/^extern int fgetsetdata(char databuf[]);$\/;"	p	language:C	signature:(char databuf[])$/;"	p	language:C	file:	signature:(char databuf[])
+fgetsetdata	tags	/^fgetsetdata	fileoperator.h~	\/^extern int fgetsetdata(char databuf[]);$\/;"	p	language:C	file:	signature:(char databuf[])$/;"	p	language:C	file:	signature:(char databuf[])
+fgetworktype	fileoperator.c	/^int fgetworktype()$/;"	f	language:C
+fgetworktype	fileoperator.c~	/^int fgetworktype()$/;"	f	language:C
+fgetworktype	fileoperator.h	/^extern int fgetworktype();   \/\/1:timing;2:ask;other:tran$/;"	p	language:C
+fgetworktype	fileoperator.h~	/^extern int fgetworktype();   \/\/1:timing;2:ask;other:tran$/;"	p	language:C	file:
+fgetworktype	tags	/^fgetworktype	fileoperator.h	\/^extern int fgetworktype();   \\\/\\\/1:timing;2:ask;other:tran$\/;"	p	language:C$/;"	p	language:C	file:
+fgetworktype	tags	/^fgetworktype	fileoperator.h~	\/^extern int fgetworktype();   \\\/\\\/1:timing;2:ask;other:tran$\/;"	p	language:C	file:$/;"	p	language:C	file:
+filename	main.c	/^    char filename[3];$/;"	l	language:C
+filename	main.c~	/^    char filename[3];$/;"	l	language:C
+flag	chanel.c	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+flag	chanel.c~	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+format	tags	/^!_TAG_FILE_FORMAT	2	\/extended format; --format=1 will not append ;" to lines\/$/;"	v	language:C
+frequency	fileoperator.h	44;"	d	language:C
+frequency	fileoperator.h~	42;"	d	language:C	file:
+frequency_taigu	taiguoperator.h	52;"	d	language:C
+frequency_taigu	taiguoperator.h~	51;"	d	language:C	file:
+frequency_yada	yadaoperator.h	30;"	d	language:C
+frequency_yada	yadaoperator.h~	30;"	d	language:C	file:
+getCRC16	bytesfactory.c	/^int getCRC16(char intbuf[], int num)$/;"	f	language:C	signature:(char intbuf[], int num)
+getCRC16	bytesfactory.c~	/^int getCRC16(char intbuf[], int num)$/;"	f	language:C	signature:(char intbuf[], int num)
+getchecktype	main.c	/^char getchecktype(char buf)$/;"	f	language:C	signature:(char buf)
+getchecktype	main.c~	/^char getchecktype(char buf)$/;"	f	language:C	signature:(char buf)
+gethexformbytes	bytesfactory.c	/^int gethexformbytes(char *bytes)$/;"	f	language:C	signature:(char *bytes)
+gethexformbytes	bytesfactory.c~	/^int gethexformbytes(char *bytes)$/;"	f	language:C	signature:(char *bytes)
+getmeansquare	yadaoperator.c	/^double getmeansquare(char valuebuf[],int offset,int num)  \/\/ huo qu ping fang he kai gen hao$/;"	f	language:C	signature:(char valuebuf[],int offset,int num)
+getmeansquare	yadaoperator.c~	/^double getmeansquare(char valuebuf[],int offset,int num)  \/\/ huo qu ping fang he kai gen hao$/;"	f	language:C	signature:(char valuebuf[],int offset,int num)
+getrealvalue	fileoperator.c	/^double getrealvalue(char valuebuf[],int valueoff,int len,int fnum)$/;"	f	language:C	signature:(char valuebuf[],int valueoff,int len,int fnum)
+getrealvalue	fileoperator.c~	/^double getrealvalue(char valuebuf[],int valueoff,int len,int fnum)$/;"	f	language:C	signature:(char valuebuf[],int valueoff,int len,int fnum)
+getrealvalue	fileoperator.h	/^extern double getrealvalue(char valuebuf[],int valueoff,int len,int fnum);$/;"	p	language:C	signature:(char valuebuf[],int valueoff,int len,int fnum)
+getrealvalue	fileoperator.h~	/^extern double getrealvalue(char valuebuf[],int valueoff,int len,int fnum);$/;"	p	language:C	file:	signature:(char valuebuf[],int valueoff,int len,int fnum)
+getrealvalue	tags	/^getrealvalue	fileoperator.h	\/^extern double getrealvalue(char valuebuf[],int valueoff,int len,int fnum);$\/;"	p	language:C	signature:(char valuebuf[],int valueoff,int len,int fnum)$/;"	p	language:C	file:	signature:(char valuebuf[],int valueoff,int len,int fnum)
+getrealvalue	tags	/^getrealvalue	fileoperator.h~	\/^extern double getrealvalue(char valuebuf[],int valueoff,int len,int fnum);$\/;"	p	language:C	file:	signature:(char valuebuf[],int valueoff,int len,int fnum)$/;"	p	language:C	file:	signature:(char valuebuf[],int valueoff,int len,int fnum)
+h	bytesfactory.c	/^    int h,l;$/;"	l	language:C
+h	bytesfactory.c~	/^    int h,l;$/;"	l	language:C
+hao$	tags	/^getmeansquare	yadaoperator.c~	\/^double getmeansquare(char valuebuf[],int offset,int num)  \\\/\\\/ huo qu ping fang he kai gen hao$\/;"	f	language:C	signature:(char valuebuf[],int offset,int num)$/;"	v	language:C
+hex	bytesfactory.c	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+hex	bytesfactory.c~	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+hour	fileoperator.c	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+hour	fileoperator.c~	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+i	bytesfactory.c	/^    int  wIndex,i;            \/\/ CRC循环中的索引$/;"	l	language:C
+i	bytesfactory.c	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+i	bytesfactory.c~	/^    int  wIndex,i;            \/\/ CRC循环中的索引$/;"	l	language:C
+i	bytesfactory.c~	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+i	chanel.c	/^    int i = 0;$/;"	l	language:C
+i	chanel.c	/^    int i,j,datalen;$/;"	l	language:C
+i	chanel.c	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+i	chanel.c	/^    int i,j;$/;"	l	language:C
+i	chanel.c	/^    int i,re;$/;"	l	language:C
+i	chanel.c~	/^    int i = 0;$/;"	l	language:C
+i	chanel.c~	/^    int i,j,datalen;$/;"	l	language:C
+i	chanel.c~	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+i	chanel.c~	/^    int i,j;$/;"	l	language:C
+i	chanel.c~	/^    int i,re;$/;"	l	language:C
+i	fileoperator.c	/^    int i = 0;$/;"	l	language:C
+i	fileoperator.c	/^    int i =0;$/;"	l	language:C
+i	fileoperator.c~	/^    int i = 0;$/;"	l	language:C
+i	fileoperator.c~	/^    int i =0;$/;"	l	language:C
+i	main.c	/^    int  i,j,res;$/;"	l	language:C
+i	main.c	/^    int  i; $/;"	l	language:C
+i	main.c	/^    int i;$/;"	l	language:C
+i	main.c~	/^    int  i,j,res;$/;"	l	language:C
+i	main.c~	/^    int  i; $/;"	l	language:C
+i	main.c~	/^    int i;$/;"	l	language:C
+i	serial.c	/^    int fd,i;$/;"	l	language:C
+i	serial.c	/^    int i;$/;"	l	language:C
+i	serial.c	/^    int result,i;$/;"	l	language:C
+i	serial.c~	/^    int fd,i;$/;"	l	language:C
+i	serial.c~	/^    int i;$/;"	l	language:C
+i	serial.c~	/^    int result,i;$/;"	l	language:C
+i	yadaoperator.c	/^    int i = 0;$/;"	l	language:C
+i	yadaoperator.c~	/^    int i = 0;$/;"	l	language:C
+ids	chanel.h	/^    char ids[32];     \/\/the elec modbus address$/;"	m	language:C	struct:chanel_info	access:public
+ids	chanel.h~	/^    char ids[32];     \/\/the elec modbus address$/;"	m	language:C	struct:chanel_info	file:	access:public
+index	fileoperator.c	/^    int    index,total,offset;$/;"	l	language:C
+index	fileoperator.c~	/^    int    index,total,offset;$/;"	l	language:C
+initchpara	main.c	/^int initchpara()    \/\/init chanel parameter$/;"	f	language:C
+initchpara	main.c~	/^int initchpara()    \/\/init chanel parameter$/;"	f	language:C
+insertsavedata	fileoperator.c	/^int insertsavedata(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)$/;"	f	language:C	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)
+insertsavedata	fileoperator.c~	/^int insertsavedata(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)$/;"	f	language:C	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)
+insertsavedata	fileoperator.h	/^extern int insertsavedata(char valuebuf[],char savedata[],int valueoff,int saveoff,int num);$/;"	p	language:C	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)
+insertsavedata	fileoperator.h~	/^extern int insertsavedata(char valuebuf[],char savedata[],int valueoff,int saveoff,int num);$/;"	p	language:C	file:	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)
+insertsavedata	tags	/^insertsavedata	fileoperator.h	\/^extern int insertsavedata(char valuebuf[],char savedata[],int valueoff,int saveoff,int num);$\/;"	p	language:C	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)$/;"	p	language:C	file:	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)
+insertsavedata	tags	/^insertsavedata	fileoperator.h~	\/^extern int insertsavedata(char valuebuf[],char savedata[],int valueoff,int saveoff,int num);$\/;"	p	language:C	file:	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)$/;"	p	language:C	file:	signature:(char valuebuf[],char savedata[],int valueoff,int saveoff,int num)
+insertsavedatar	fileoperator.c	/^int insertsavedatar(char savedata[],int saveoff, double value,int len,int fnum)$/;"	f	language:C	signature:(char savedata[],int saveoff, double value,int len,int fnum)
+insertsavedatar	fileoperator.c~	/^int insertsavedatar(char savedata[],int saveoff, double value,int len,int fnum)$/;"	f	language:C	signature:(char savedata[],int saveoff, double value,int len,int fnum)
+insertsavedatar	fileoperator.h	/^extern int insertsavedatar(char savedata[],int saveoff, double value,int len,int fnum);$/;"	p	language:C	signature:(char savedata[],int saveoff, double value,int len,int fnum)
+insertsavedatar	fileoperator.h~	/^extern int insertsavedatar(char savedata[],int saveoff, double value,int len,int fnum);$/;"	p	language:C	file:	signature:(char savedata[],int saveoff, double value,int len,int fnum)
+insnum	chanel.c	/^    int insnum,insoff;$/;"	l	language:C
+insnum	chanel.c~	/^    int insnum,insoff;$/;"	l	language:C
+insoff	chanel.c	/^    int insnum,insoff;$/;"	l	language:C
+insoff	chanel.c~	/^    int insnum,insoff;$/;"	l	language:C
+instructs	chanel.c	/^static const char instructs[17][6] = {$/;"	v	language:C	file:
+instructs	chanel.c~	/^static const char instructs[17][6] = {$/;"	v	language:C	file:
+ivalue	fileoperator.c	/^    int ivalue;$/;"	l	language:C
+ivalue	fileoperator.c~	/^    int ivalue;$/;"	l	language:C
+j	chanel.c	/^    int i,j,datalen;$/;"	l	language:C
+j	chanel.c	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+j	chanel.c	/^    int i,j;$/;"	l	language:C
+j	chanel.c~	/^    int i,j,datalen;$/;"	l	language:C
+j	chanel.c~	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+j	chanel.c~	/^    int i,j;$/;"	l	language:C
+j	main.c	/^    int  i,j,res;$/;"	l	language:C
+j	main.c~	/^    int  i,j,res;$/;"	l	language:C
+l	bytesfactory.c	/^    int h,l;$/;"	l	language:C
+l	bytesfactory.c~	/^    int h,l;$/;"	l	language:C
+ldate	fileoperator.c	/^    long   ldate;$/;"	l	language:C
+ldate	fileoperator.c~	/^    long   ldate;$/;"	l	language:C
+main	main.c	/^int main(int argc,char* argv[])$/;"	f	language:C	signature:(int argc,char* argv[])
+main	main.c~	/^int main(int argc,char* argv[])$/;"	f	language:C	signature:(int argc,char* argv[])
+min	fileoperator.c	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+min	fileoperator.c~	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+mon	fileoperator.c	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+mon	fileoperator.c~	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+n	10	/^,/;"	v	language:C
+num	bytesfactory.c	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+num	bytesfactory.c~	/^    int i, hex, cnt, num,crc;$/;"	l	language:C
+num	chanel.c	/^    int num = 0;$/;"	l	language:C
+num	chanel.c~	/^    int num = 0;$/;"	l	language:C
+offset	chanel.c	/^    int offset = 0;$/;"	l	language:C
+offset	chanel.c~	/^    int offset = 0;$/;"	l	language:C
+offset	chanel.h	/^    int  offset;      \/\/when data collector is running , elecdatas offset $/;"	m	language:C	struct:chanel_info	access:public
+offset	chanel.h~	/^    int  offset;$/;"	m	language:C	struct:chanel_info	file:	access:public
+offset	fileoperator.c	/^    int    index,total,offset;$/;"	l	language:C
+offset	fileoperator.c~	/^    int    index,total,offset;$/;"	l	language:C
+openport	serial.c	/^int openport(int comport)$/;"	f	language:C	signature:(int comport)
+openport	serial.c~	/^int openport(int comport)$/;"	f	language:C	signature:(int comport)
+opt	serial.c	/^    struct termios opt;$/;"	l	language:C
+opt	serial.c~	/^    struct termios opt;$/;"	l	language:C
+p	fileoperator.c	/^    struct tm *p;$/;"	l	language:C
+p	fileoperator.c~	/^    struct tm *p;$/;"	l	language:C
+phase_angA_taigu	taiguoperator.h	23;"	d	language:C
+phase_angA_taigu	taiguoperator.h~	22;"	d	language:C	file:
+phase_angB_taigu	taiguoperator.h	24;"	d	language:C
+phase_angB_taigu	taiguoperator.h~	23;"	d	language:C	file:
+phase_angC_taigu	taiguoperator.h	25;"	d	language:C
+phase_angC_taigu	taiguoperator.h~	24;"	d	language:C	file:
+port	serial.c	/^    int port;$/;"	l	language:C
+port	serial.c~	/^    int port;$/;"	l	language:C
+portnum	chanel.h	/^    int  portnum;$/;"	m	language:C	struct:chanel_info	access:public
+portnum	chanel.h~	/^    int  portnum;$/;"	m	language:C	struct:chanel_info	file:	access:public
+powerfac_A	fileoperator.h	40;"	d	language:C
+powerfac_A	fileoperator.h~	38;"	d	language:C	file:
+powerfac_A_taigu	taiguoperator.h	48;"	d	language:C
+powerfac_A_taigu	taiguoperator.h~	47;"	d	language:C	file:
+powerfac_A_yada	yadaoperator.h	26;"	d	language:C
+powerfac_A_yada	yadaoperator.h~	26;"	d	language:C	file:
+powerfac_B	fileoperator.h	41;"	d	language:C
+powerfac_B	fileoperator.h~	39;"	d	language:C	file:
+powerfac_B_taigu	taiguoperator.h	49;"	d	language:C
+powerfac_B_taigu	taiguoperator.h~	48;"	d	language:C	file:
+powerfac_B_yada	yadaoperator.h	27;"	d	language:C
+powerfac_B_yada	yadaoperator.h~	27;"	d	language:C	file:
+powerfac_C	fileoperator.h	42;"	d	language:C
+powerfac_C	fileoperator.h~	40;"	d	language:C	file:
+powerfac_C_taigu	taiguoperator.h	50;"	d	language:C
+powerfac_C_taigu	taiguoperator.h~	49;"	d	language:C	file:
+powerfac_C_yada	yadaoperator.h	28;"	d	language:C
+powerfac_C_yada	yadaoperator.h~	28;"	d	language:C	file:
+powerfac_T	fileoperator.h	43;"	d	language:C
+powerfac_T	fileoperator.h~	41;"	d	language:C	file:
+powerfac_T_taigu	taiguoperator.h	51;"	d	language:C
+powerfac_T_taigu	taiguoperator.h~	50;"	d	language:C	file:
+powerfac_T_yada	yadaoperator.h	29;"	d	language:C
+powerfac_T_yada	yadaoperator.h~	29;"	d	language:C	file:
+q	11	/^/;"	v	language:C
+q	tags	/^q	11	\/^\/;"	v	language:C$/;"	v	language:C
+rdbuf	fileoperator.c	/^    char   rdbuf[12];$/;"	l	language:C
+rdbuf	fileoperator.c~	/^    char   rdbuf[12];$/;"	l	language:C
+re	chanel.c	/^    int i,re;$/;"	l	language:C
+re	chanel.c~	/^    int i,re;$/;"	l	language:C
+re	fileoperator.c	/^    int re=0;   \/\/ 保存转换为10进制的结果 $/;"	l	language:C
+re	fileoperator.c~	/^    int re=0;   \/\/ 保存转换为10进制的结果 $/;"	l	language:C
+recvdata	chanel.c	/^int recvdata(struct chanel_info *ch,int num, int index)$/;"	f	language:C	signature:(struct chanel_info *ch,int num, int index)
+recvdata	chanel.c~	/^int recvdata(struct chanel_info *ch,int num, int index)$/;"	f	language:C	signature:(struct chanel_info *ch,int num, int index)
+res	main.c	/^    int  i,j,res;$/;"	l	language:C
+res	main.c	/^    int  res;$/;"	l	language:C
+res	main.c	/^    int res;$/;"	l	language:C
+res	main.c~	/^    int  i,j,res;$/;"	l	language:C
+res	main.c~	/^    int  res;$/;"	l	language:C
+res	main.c~	/^    int res;$/;"	l	language:C
+result	serial.c	/^    int result,i;$/;"	l	language:C
+result	serial.c~	/^    int result,i;$/;"	l	language:C
+rev	bytesfactory.c	/^    int crc,rev;$/;"	l	language:C
+rev	bytesfactory.c~	/^    int crc,rev;$/;"	l	language:C
+revbuf	serial.c	/^    char revbuf[256];$/;"	l	language:C
+revbuf	serial.c~	/^    char revbuf[256];$/;"	l	language:C
+revdata	chanel.c	/^    char revdata[512];$/;"	l	language:C
+revdata	chanel.c~	/^    char revdata[512];$/;"	l	language:C
+revlen	serial.c	/^    int revlen = 0;$/;"	l	language:C
+revlen	serial.c~	/^    int revlen = 0;$/;"	l	language:C
+revnum	chanel.c	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+revnum	chanel.c	/^    int revnum = 0;$/;"	l	language:C
+revnum	chanel.c~	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+revnum	chanel.c~	/^    int revnum = 0;$/;"	l	language:C
+revnum	serial.c	/^    int revnum = 0;$/;"	l	language:C
+revnum	serial.c~	/^    int revnum = 0;$/;"	l	language:C
+savedata	main.c	/^    char savedata[1420];$/;"	l	language:C
+savedata	main.c	/^int savedata(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+savedata	main.c~	/^    char savedata[1420];$/;"	l	language:C
+savedata	main.c~	/^int savedata(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+savedatainit	fileoperator.c	/^int savedatainit(char savedata[])$/;"	f	language:C	signature:(char savedata[])
+savedatainit	fileoperator.c~	/^int savedatainit(char savedata[])$/;"	f	language:C	signature:(char savedata[])
+savedatainit	fileoperator.h	/^extern int savedatainit(char savedata[]);$/;"	p	language:C	signature:(char savedata[])
+savedatainit	fileoperator.h~	/^extern int savedatainit(char savedata[]);$/;"	p	language:C	file:	signature:(char savedata[])
+savespan	fileoperator.c	/^    int    savespan;$/;"	l	language:C
+savespan	fileoperator.c~	/^    int    savespan;$/;"	l	language:C
+sendbuf	chanel.c	/^    char sendbuf[256];$/;"	l	language:C
+sendbuf	chanel.c~	/^    char sendbuf[256];$/;"	l	language:C
+sendinstruct	chanel.c	/^int sendinstruct(struct chanel_info *ch,int index,int add)       \/\/send one instruct everytime and get elec data$/;"	f	language:C	signature:(struct chanel_info *ch,int index,int add)
+sendinstruct	chanel.c~	/^int sendinstruct(struct chanel_info *ch,int index,int add)       \/\/send one instruct everytime and get elec data$/;"	f	language:C	signature:(struct chanel_info *ch,int index,int add)
+sendlen	chanel.c	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+sendlen	chanel.c~	/^    int i,j,flag,sendlen,revnum;$/;"	l	language:C
+serial_init	serial.c	/^int serial_init(int port,int nSpeed,char nEvent,int nStop)$/;"	f	language:C	signature:(int port,int nSpeed,char nEvent,int nStop)
+serial_init	serial.c~	/^int serial_init(int port,int nSpeed,char nEvent,int nStop)$/;"	f	language:C	signature:(int port,int nSpeed,char nEvent,int nStop)
+serial_init	serial.h	/^extern int serial_init(int port,int nSpeed,char nEvent,int nStop);$/;"	p	language:C	signature:(int port,int nSpeed,char nEvent,int nStop)
+serial_init	serial.h~	/^extern int serial_init(int port,int nSpeed,char nEvent,int nStop);$/;"	p	language:C	file:	signature:(int port,int nSpeed,char nEvent,int nStop)
+serial_rev	serial.c	/^int serial_rev(int fd,char revdata[],int num)$/;"	f	language:C	signature:(int fd,char revdata[],int num)
+serial_rev	serial.c~	/^int serial_rev(int fd,char revdata[],int num)$/;"	f	language:C	signature:(int fd,char revdata[],int num)
+serial_rev	serial.h	/^extern int serial_rev(int fd,char revdata[],int num);$/;"	p	language:C	signature:(int fd,char revdata[],int num)
+serial_rev	serial.h~	/^extern int serial_rev(int fd,char revdata[],int num);$/;"	p	language:C	file:	signature:(int fd,char revdata[],int num)
+serial_send	serial.c	/^int serial_send(int fd,char sendbuf[],int len)$/;"	f	language:C	signature:(int fd,char sendbuf[],int len)
+serial_send	serial.c~	/^int serial_send(int fd,char sendbuf[],int len)$/;"	f	language:C	signature:(int fd,char sendbuf[],int len)
+serial_send	serial.h	/^extern int serial_send(int fd,char sendbuf[],int len);$/;"	p	language:C	signature:(int fd,char sendbuf[],int len)
+serial_send	serial.h~	/^extern int serial_send(int fd,char sendbuf[],int len);$/;"	p	language:C	file:	signature:(int fd,char sendbuf[],int len)
+setinfo	main.c	/^    char setinfo[F_SETFILE_LENGTH];$/;"	l	language:C
+setinfo	main.c~	/^    char setinfo[F_SETFILE_LENGTH];$/;"	l	language:C
+setopt	serial.c	/^int setopt(int fd,int nSpeed,int nBits,char nEvent,int nStop)$/;"	f	language:C	signature:(int fd,int nSpeed,int nBits,char nEvent,int nStop)
+setopt	serial.c~	/^int setopt(int fd,int nSpeed,int nBits,char nEvent,int nStop)$/;"	f	language:C	signature:(int fd,int nSpeed,int nBits,char nEvent,int nStop)
+sqsum	yadaoperator.c	/^    double sqsum = 0;$/;"	l	language:C
+sqsum	yadaoperator.c~	/^    double sqsum = 0;$/;"	l	language:C
+stopbit	chanel.h	/^    int  stopbit;$/;"	m	language:C	struct:chanel_info	access:public
+stopbit	chanel.h~	/^    int  stopbit;$/;"	m	language:C	struct:chanel_info	file:	access:public
+stopbit	main.c	/^    int  bundbit,stopbit;$/;"	l	language:C
+stopbit	main.c~	/^    int  bundbit,stopbit;$/;"	l	language:C
+str	fileoperator.c	/^    char str[25];$/;"	l	language:C
+str	fileoperator.c~	/^    char str[25];$/;"	l	language:C
+taiguoperator_getdata	taiguoperator.c	/^int taiguoperator_getdata(char valuebuf[],char savedata[])$/;"	f	language:C	signature:(char valuebuf[],char savedata[])
+taiguoperator_getdata	taiguoperator.c~	/^int taiguoperator_getdata(char valuebuf[],char savedata[])$/;"	f	language:C	signature:(char valuebuf[],char savedata[])
+taiguoperator_getdata	taiguoperator.h	/^extern int taiguoperator_getdata(char valuebuf[],char savedata[]);$/;"	p	language:C	signature:(char valuebuf[],char savedata[])
+taiguoperator_getdata	taiguoperator.h~	/^extern int taiguoperator_getdata(char valuebuf[],char savedata[]);$/;"	p	language:C	file:	signature:(char valuebuf[],char savedata[])
+timep	fileoperator.c	/^    time_t timep;                            \/\/get now date$/;"	l	language:C
+timep	fileoperator.c~	/^    time_t timep;                            \/\/get now date$/;"	l	language:C
+total	fileoperator.c	/^    int    index,total,offset;$/;"	l	language:C
+total	fileoperator.c~	/^    int    index,total,offset;$/;"	l	language:C
+tran$	tags	/^fgetworktype	fileoperator.h	\/^extern int fgetworktype();   \\\/\\\/1:timing;2:ask;other:tran$\/;"	p	language:C$/;"	v	language:C
+tran$	tags	/^fgetworktype	fileoperator.h~	\/^extern int fgetworktype();   \\\/\\\/1:timing;2:ask;other:tran$\/;"	p	language:C	file:$/;"	v	language:C
+type	chanel.h	/^    int  type;        \/\/the type of elec : 1,yada;2,weisheng$/;"	m	language:C	struct:chanel_info	access:public
+type	chanel.h~	/^    int  type;        \/\/the type of elec : 1,yada;2,weisheng$/;"	m	language:C	struct:chanel_info	file:	access:public
+updatechpara	main.c	/^int updatechpara(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+updatechpara	main.c~	/^int updatechpara(struct chanel_info *ch)$/;"	f	language:C	signature:(struct chanel_info *ch)
+value	yadaoperator.c	/^    double value;$/;"	l	language:C
+value	yadaoperator.c~	/^    double value;$/;"	l	language:C
+value16	yadaoperator.c	/^    int value16;$/;"	l	language:C
+value16	yadaoperator.c~	/^    int value16;$/;"	l	language:C
+vfa	taiguoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+vfa	taiguoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+vfa	yadaoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+vfa	yadaoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+vfb	tags	/^cfb	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+vfb	tags	/^vfa	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+vfb	tags	/^vfc	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+vfb	taiguoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+vfb	taiguoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+vfb	yadaoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+vfb	yadaoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+vfc	tags	/^cfb	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+vfc	tags	/^vfa	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+vfc	tags	/^vfc	yadaoperator.c~	\/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $\/;"	l	language:C$/;"	v	language:C
+vfc	taiguoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+vfc	taiguoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc; $/;"	l	language:C
+vfc	yadaoperator.c	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+vfc	yadaoperator.c~	/^    double vfa,vfb,vfc,cfa,cfb,cfc;  $/;"	l	language:C
+wIndex	bytesfactory.c	/^    int  wIndex,i;            \/\/ CRC循环中的索引$/;"	l	language:C
+wIndex	bytesfactory.c~	/^    int  wIndex,i;            \/\/ CRC循环中的索引$/;"	l	language:C
+wdt_fd	wdt.c	/^int wdt_fd = -1;$/;"	v	language:C
+wdt_fd	wdt.c~	/^int wdt_fd = -1;$/;"	v	language:C
+wdt_feed	wdt.c	/^int wdt_feed()$/;"	f	language:C
+wdt_feed	wdt.c~	/^int wdt_feed()$/;"	f	language:C
+wdt_feed	wdt.h	/^extern int wdt_feed();$/;"	p	language:C
+wdt_feed	wdt.h~	/^extern int wdt_feed();$/;"	p	language:C	file:
+wdt_init	wdt.c	/^int wdt_init(int timeout)$/;"	f	language:C	signature:(int timeout)
+wdt_init	wdt.c~	/^int wdt_init(int timeout)$/;"	f	language:C	signature:(int timeout)
+wdt_init	wdt.h	/^extern int wdt_init(int timeout);$/;"	p	language:C	signature:(int timeout)
+wdt_init	wdt.h~	/^extern int wdt_init(int num);$/;"	p	language:C	file:	signature:(int num)
+worktype	main.c	/^    int  worktype;$/;"	l	language:C
+worktype	main.c~	/^    int  worktype;$/;"	l	language:C
+wrbuf	fileoperator.c	/^    char   wrbuf[12];$/;"	l	language:C
+wrbuf	fileoperator.c~	/^    char   wrbuf[12];$/;"	l	language:C
+wrfile	fileoperator.c	/^int wrfile(char fname[],char databuf[])     \/\/write a data into file$/;"	f	language:C	signature:(char fname[],char databuf[])
+wrfile	fileoperator.c~	/^int wrfile(char fname[],char databuf[])     \/\/write a data into file$/;"	f	language:C	signature:(char fname[],char databuf[])
+wrfile	fileoperator.h	/^extern int wrfile(char fname[],char databuf[]);$/;"	p	language:C	signature:(char fname[],char databuf[])
+wrfile	fileoperator.h~	/^extern int wrfile(char fname[],char databuf[]);$/;"	p	language:C	file:	signature:(char fname[],char databuf[])
+yadaoperator_getdata	yadaoperator.c	/^int yadaoperator_getdata(char valuebuf[],char savedata[])$/;"	f	language:C	signature:(char valuebuf[],char savedata[])
+yadaoperator_getdata	yadaoperator.c~	/^int yadaoperator_getdata(char valuebuf[],char savedata[])$/;"	f	language:C	signature:(char valuebuf[],char savedata[])
+yadaoperator_getdata	yadaoperator.h	/^extern int yadaoperator_getdata(char valuebuf[],char savedata[]);$/;"	p	language:C	signature:(char valuebuf[],char savedata[])
+yadaoperator_getdata	yadaoperator.h~	/^extern int yadaoperator_getdata(char valuebuf[],char savedata[]);$/;"	p	language:C	file:	signature:(char valuebuf[],char savedata[])
+year	fileoperator.c	/^    int    year,mon,day,hour,min;$/;"	l	language:C
+year	fileoperator.c~	/^    int    year,mon,day,hour,min;$/;"	l	language:C
